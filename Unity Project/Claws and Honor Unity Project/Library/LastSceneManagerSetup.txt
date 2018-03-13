@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Tutorial Area.unity
+- path: Assets/Forest Area.unity
   isLoaded: 1
   isActive: 1
