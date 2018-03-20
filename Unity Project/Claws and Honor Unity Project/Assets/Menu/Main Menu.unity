@@ -359,7 +359,7 @@ GameObject:
   - component: {fileID: 222779975}
   - component: {fileID: 222779976}
   m_Layer: 5
-  m_Name: Slider
+  m_Name: Music
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -427,7 +427,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1739592639}
   m_Direction: 0
   m_MinValue: 0
-  m_MaxValue: 1
+  m_MaxValue: 100
   m_WholeNumbers: 0
   m_Value: 0
   m_OnValueChanged:
@@ -773,7 +773,7 @@ GameObject:
   - component: {fileID: 612441530}
   - component: {fileID: 612441531}
   m_Layer: 5
-  m_Name: Slider (1)
+  m_Name: SFX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -841,7 +841,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 2063505560}
   m_Direction: 0
   m_MinValue: 0
-  m_MaxValue: 1
+  m_MaxValue: 100
   m_WholeNumbers: 0
   m_Value: 0
   m_OnValueChanged:
@@ -1437,7 +1437,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -97.7, y: 0}
+  m_AnchoredPosition: {x: -58, y: 0}
   m_SizeDelta: {x: 107, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1070996759
@@ -1472,7 +1472,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Sound Effects
+  m_Text: SFX
 --- !u!222 &1070996760
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1853,7 +1853,7 @@ GameObject:
   - component: {fileID: 1409505206}
   - component: {fileID: 1409505207}
   m_Layer: 5
-  m_Name: Slider (2)
+  m_Name: Master
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1921,7 +1921,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1777684877}
   m_Direction: 0
   m_MinValue: 0
-  m_MaxValue: 1
+  m_MaxValue: 100
   m_WholeNumbers: 0
   m_Value: 0
   m_OnValueChanged:
