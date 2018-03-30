@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -45,7 +45,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 96
+  controlID: 34
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -64,8 +64,8 @@ MonoBehaviour:
     y: 0
     width: 362
     height: 731
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -91,8 +91,8 @@ MonoBehaviour:
     y: 0
     width: 202
     height: 460
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -145,7 +145,7 @@ MonoBehaviour:
     y: 0
     width: 1536
     height: 781
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -393,7 +393,7 @@ MonoBehaviour:
     Project\Claws and Honor Unity Project
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 359}
+    scrollPos: {x: 0, y: 343}
     m_SelectedIDs: 0a3e0000
     m_LastClickedID: 15882
     m_ExpandedIDs: 000000008c290000f62900004c2a0000562d0000ca350000cc360000a83700000a380000563800001a3a00006e3a0000ae3a00000a3e00009a3e00005a41000042420000ae420000d842000000ca9a3bffffff7f
@@ -541,10 +541,10 @@ MonoBehaviour:
     height: 439
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
+    scrollPos: {x: 0, y: 10}
+    m_SelectedIDs: 60400000
     m_LastClickedID: 0
-    m_ExpandedIDs: 46fbffff00000000f2440000
+    m_ExpandedIDs: d096feffe8f7ffffb2f9ffff46fbffff00000000fa440000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -600,9 +600,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -111.33217, y: -35.98227, z: -82.600624}
+    m_Target: {x: -134.36752, y: -5.2678337, z: -181.58595}
     speed: 2
-    m_Value: {x: -111.33217, y: -35.98227, z: -82.600624}
+    m_Value: {x: -134.36752, y: -5.2678337, z: -181.58595}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -626,13 +626,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.18344328, y: 0.6404992, z: -0.1613805, w: -0.72805613}
+    m_Target: {x: -0.12700182, y: 0.67569155, z: -0.11981651, w: -0.7162092}
     speed: 2
-    m_Value: {x: -0.18344328, y: 0.6404992, z: -0.1613805, w: -0.72805613}
+    m_Value: {x: -0.12700182, y: 0.67569155, z: -0.11981651, w: -0.7162092}
   m_Size:
-    m_Target: 296.97208
+    m_Target: 166.95306
     speed: 2
-    m_Value: 296.97208
+    m_Value: 166.95306
   m_Ortho:
     m_Target: 0
     speed: 2
