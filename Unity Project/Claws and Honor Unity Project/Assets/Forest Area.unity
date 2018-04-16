@@ -13420,9 +13420,9 @@ GameObject:
   - component: {fileID: 381212222}
   - component: {fileID: 381212221}
   - component: {fileID: 381212220}
-  - component: {fileID: 381212223}
-  - component: {fileID: 381212224}
   - component: {fileID: 381212225}
+  - component: {fileID: 381212224}
+  - component: {fileID: 381212223}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -13501,12 +13501,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 381212218}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d225bc31f3bbaf64b9d160f4255f0274, type: 3}
+  m_Script: {fileID: 11500000, guid: 62a203b0fc42c0a4bb29f83a9953cd3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   movementMask:
     serializedVersion: 2
-    m_Bits: 256
+    m_Bits: 0
 --- !u!114 &381212224
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13515,7 +13515,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 381212218}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 037724eb69cb0ab4bbdafdcb36978d33, type: 3}
+  m_Script: {fileID: 11500000, guid: dd3d6830de67b18408542b790c269f2a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   turningSpeed: 150
@@ -13532,6 +13532,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jumpStrength: 1e+11
+  test1: 100
+  test2: 100
+  test3: 100
+  raycastLength: 1
 --- !u!1 &383479532
 GameObject:
   m_ObjectHideFlags: 0
@@ -42625,6 +42629,7 @@ GameObject:
   - component: {fileID: 1257269100}
   - component: {fileID: 1257269099}
   - component: {fileID: 1257269102}
+  - component: {fileID: 1257269103}
   m_Layer: 0
   m_Name: Camera
   m_TagString: MainCamera
@@ -42779,6 +42784,19 @@ MonoBehaviour:
   target: {fileID: 381212219}
   offset: {x: -0.12, y: -0.41, z: -1.04}
   pitch: 2
+--- !u!114 &1257269103
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1257269092}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95c1e4bc638db1548a00adcadc2b5d38, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  XP: 0
+  currentLevel: 0
 --- !u!1 &1258886563
 GameObject:
   m_ObjectHideFlags: 0
