@@ -2985,7 +2985,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &82608308
 GameObject:
@@ -3700,7 +3700,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23fa698560b688845bf08bafe6dc1b28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AdditionalVertexStreamMesh: {fileID: 0}
 --- !u!23 &97490190
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3998,7 +3997,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23fa698560b688845bf08bafe6dc1b28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AdditionalVertexStreamMesh: {fileID: 0}
 --- !u!23 &103970370
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4366,7 +4364,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23fa698560b688845bf08bafe6dc1b28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AdditionalVertexStreamMesh: {fileID: 0}
 --- !u!23 &112563036
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4976,7 +4973,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23fa698560b688845bf08bafe6dc1b28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AdditionalVertexStreamMesh: {fileID: 0}
 --- !u!23 &123781811
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7408,7 +7404,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23fa698560b688845bf08bafe6dc1b28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AdditionalVertexStreamMesh: {fileID: 0}
 --- !u!1 &190686949
 GameObject:
   m_ObjectHideFlags: 0
@@ -7522,7 +7517,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23fa698560b688845bf08bafe6dc1b28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AdditionalVertexStreamMesh: {fileID: 0}
 --- !u!23 &191107271
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -11181,7 +11175,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 329254192}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 100.6, y: -1.7, z: -62}
+  m_LocalPosition: {x: 96.69, y: -2.1, z: -66.04}
   m_LocalScale: {x: 50, y: 1, z: 75}
   m_Children: []
   m_Father: {fileID: 783972466}
@@ -13095,7 +13089,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23fa698560b688845bf08bafe6dc1b28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AdditionalVertexStreamMesh: {fileID: 0}
 --- !u!23 &376235446
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -13312,7 +13305,7 @@ Transform:
   m_Children:
   - {fileID: 858326965}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: -121.70901, z: 0}
 --- !u!54 &381212220
 Rigidbody:
@@ -13374,9 +13367,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 62a203b0fc42c0a4bb29f83a9953cd3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementMask:
-    serializedVersion: 2
-    m_Bits: 0
 --- !u!114 &381212224
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13388,8 +13378,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd3d6830de67b18408542b790c269f2a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  turningSpeed: 150
-  movementSpeed: 3
 --- !u!114 &381212225
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13401,11 +13389,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa1f03fcd56272140abfb568b5a2280d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jumpStrength: 1e+11
-  test1: 100
-  test2: 100
-  test3: 100
-  raycastLength: 1
 --- !u!1 &383479532
 GameObject:
   m_ObjectHideFlags: 0
@@ -15962,7 +15945,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23fa698560b688845bf08bafe6dc1b28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AdditionalVertexStreamMesh: {fileID: 0}
 --- !u!1 &456689958
 GameObject:
   m_ObjectHideFlags: 0
@@ -16265,7 +16247,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23fa698560b688845bf08bafe6dc1b28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AdditionalVertexStreamMesh: {fileID: 0}
 --- !u!1 &463059048
 GameObject:
   m_ObjectHideFlags: 0
@@ -20197,7 +20178,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23fa698560b688845bf08bafe6dc1b28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AdditionalVertexStreamMesh: {fileID: 0}
 --- !u!23 &592027532
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -21502,7 +21482,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23fa698560b688845bf08bafe6dc1b28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AdditionalVertexStreamMesh: {fileID: 0}
 --- !u!1 &639833347
 GameObject:
   m_ObjectHideFlags: 0
@@ -21901,7 +21880,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23fa698560b688845bf08bafe6dc1b28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AdditionalVertexStreamMesh: {fileID: 0}
 --- !u!23 &650757261
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -23316,7 +23294,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23fa698560b688845bf08bafe6dc1b28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AdditionalVertexStreamMesh: {fileID: 0}
 --- !u!23 &684915059
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -23942,7 +23919,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23fa698560b688845bf08bafe6dc1b28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AdditionalVertexStreamMesh: {fileID: 0}
 --- !u!1001 &695468633
 Prefab:
   m_ObjectHideFlags: 0
@@ -25887,7 +25863,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23fa698560b688845bf08bafe6dc1b28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AdditionalVertexStreamMesh: {fileID: 0}
 --- !u!23 &752264502
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -27614,7 +27589,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23fa698560b688845bf08bafe6dc1b28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AdditionalVertexStreamMesh: {fileID: 0}
 --- !u!1 &801712031
 GameObject:
   m_ObjectHideFlags: 0
@@ -28829,7 +28803,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 46.478, y: -486.174, z: -197.646}
 --- !u!1001 &858326964
 Prefab:
@@ -38126,7 +38100,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23fa698560b688845bf08bafe6dc1b28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AdditionalVertexStreamMesh: {fileID: 0}
 --- !u!23 &1161423756
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -40806,7 +40779,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23fa698560b688845bf08bafe6dc1b28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AdditionalVertexStreamMesh: {fileID: 0}
 --- !u!23 &1221546929
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -42227,7 +42199,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23fa698560b688845bf08bafe6dc1b28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AdditionalVertexStreamMesh: {fileID: 0}
 --- !u!23 &1257217653
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -42438,9 +42409,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4c7a3129f5a2d6844b5bd65984ba64bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 381212219}
-  offset: {x: -0.12, y: -0.41, z: -1.04}
-  pitch: 2
 --- !u!114 &1257269103
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42452,8 +42420,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 95c1e4bc638db1548a00adcadc2b5d38, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  XP: 0
-  currentLevel: 0
 --- !u!1 &1258886563
 GameObject:
   m_ObjectHideFlags: 0
@@ -43995,7 +43961,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23fa698560b688845bf08bafe6dc1b28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AdditionalVertexStreamMesh: {fileID: 0}
 --- !u!23 &1302529932
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -45844,7 +45809,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23fa698560b688845bf08bafe6dc1b28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AdditionalVertexStreamMesh: {fileID: 0}
 --- !u!1 &1358978445
 GameObject:
   m_ObjectHideFlags: 0
@@ -47139,7 +47103,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23fa698560b688845bf08bafe6dc1b28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AdditionalVertexStreamMesh: {fileID: 0}
 --- !u!1 &1403730214
 GameObject:
   m_ObjectHideFlags: 0
@@ -48193,7 +48156,7 @@ Transform:
   - {fileID: 1245356312}
   - {fileID: 190397465}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1440033886
 GameObject:
@@ -52564,7 +52527,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23fa698560b688845bf08bafe6dc1b28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AdditionalVertexStreamMesh: {fileID: 0}
 --- !u!23 &1556300067
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -54503,6 +54465,89 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1613176219}
   m_Mesh: {fileID: 4300000, guid: 34dfeb3f659c70946a7698f1846d752b, type: 3}
+--- !u!1001 &1613314408
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4738923781260352, guid: bc4f23d04e42f4b559542ad840db6530, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -22
+      objectReference: {fileID: 0}
+    - target: {fileID: 4738923781260352, guid: bc4f23d04e42f4b559542ad840db6530, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.84
+      objectReference: {fileID: 0}
+    - target: {fileID: 4738923781260352, guid: bc4f23d04e42f4b559542ad840db6530, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -39
+      objectReference: {fileID: 0}
+    - target: {fileID: 4738923781260352, guid: bc4f23d04e42f4b559542ad840db6530, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4738923781260352, guid: bc4f23d04e42f4b559542ad840db6530, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4738923781260352, guid: bc4f23d04e42f4b559542ad840db6530, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4738923781260352, guid: bc4f23d04e42f4b559542ad840db6530, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4738923781260352, guid: bc4f23d04e42f4b559542ad840db6530, type: 2}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1939477270973900, guid: bc4f23d04e42f4b559542ad840db6530, type: 2}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1332961122091336, guid: bc4f23d04e42f4b559542ad840db6530, type: 2}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1685541703459444, guid: bc4f23d04e42f4b559542ad840db6530, type: 2}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1118143667962818, guid: bc4f23d04e42f4b559542ad840db6530, type: 2}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694793920097310, guid: bc4f23d04e42f4b559542ad840db6530, type: 2}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 4738923781260352, guid: bc4f23d04e42f4b559542ad840db6530, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4738923781260352, guid: bc4f23d04e42f4b559542ad840db6530, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4738923781260352, guid: bc4f23d04e42f4b559542ad840db6530, type: 2}
+      propertyPath: m_LocalScale.z
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 114961008860332776, guid: bc4f23d04e42f4b559542ad840db6530,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1939477270973900, guid: bc4f23d04e42f4b559542ad840db6530, type: 2}
+      propertyPath: m_Layer
+      value: 4
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: bc4f23d04e42f4b559542ad840db6530, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1 &1615496273
 GameObject:
   m_ObjectHideFlags: 0
@@ -62712,15 +62757,15 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4063541705819162, guid: 0761e9c9debdfd34fa20f5859c6f08ff, type: 2}
       propertyPath: m_LocalPosition.x
-      value: -6.48
+      value: 14.49
       objectReference: {fileID: 0}
     - target: {fileID: 4063541705819162, guid: 0761e9c9debdfd34fa20f5859c6f08ff, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -1.48
+      value: 5.96
       objectReference: {fileID: 0}
     - target: {fileID: 4063541705819162, guid: 0761e9c9debdfd34fa20f5859c6f08ff, type: 2}
       propertyPath: m_LocalPosition.z
-      value: -1.58
+      value: -48.96
       objectReference: {fileID: 0}
     - target: {fileID: 4063541705819162, guid: 0761e9c9debdfd34fa20f5859c6f08ff, type: 2}
       propertyPath: m_LocalRotation.x
@@ -65384,7 +65429,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23fa698560b688845bf08bafe6dc1b28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AdditionalVertexStreamMesh: {fileID: 0}
 --- !u!1001 &1921765356
 Prefab:
   m_ObjectHideFlags: 0
@@ -73081,7 +73125,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23fa698560b688845bf08bafe6dc1b28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AdditionalVertexStreamMesh: {fileID: 0}
 --- !u!23 &2125908761
 MeshRenderer:
   m_ObjectHideFlags: 0
