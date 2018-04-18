@@ -7,6 +7,7 @@ public class LevelLoader : MonoBehaviour {
 	public void LoadLevel (int sceneIndex)
     {
         StartCoroutine(LoadAsynchronously(sceneIndex));
+        
     }
 
     IEnumerator LoadAsynchronously (int sceneIndex)
@@ -20,5 +21,4 @@ public class LevelLoader : MonoBehaviour {
             yield return null;
         }
     }
-
 }
