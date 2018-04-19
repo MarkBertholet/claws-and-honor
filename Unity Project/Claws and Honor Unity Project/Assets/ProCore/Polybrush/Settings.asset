@@ -12,12 +12,13 @@ MonoBehaviour:
   m_Name: Settings
   m_EditorClassIdentifier: 
   m_bool_keys: []
-  m_int_keys: []
+  m_int_keys:
+  - z_GIWorkflowMode
   m_float_keys: []
   m_string_keys: []
   m_Color_keys: []
   m_bool_values: 
-  m_int_values: 
+  m_int_values: 01000000
   m_float_values: []
   m_string_values: []
   m_Color_values: []
