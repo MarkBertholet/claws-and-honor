@@ -15,8 +15,8 @@ public class PlayerController : MonoBehaviour {
         cam = Camera.main;
         motor = GetComponent<PlayerMotor>();
         jump = GetComponent<Jump>();
-        
-	}
+
+    }
 	
 	// Update is called once per frame
 	void Update () {
