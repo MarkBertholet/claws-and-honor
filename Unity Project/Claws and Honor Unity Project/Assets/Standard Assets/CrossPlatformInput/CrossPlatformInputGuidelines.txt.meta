@@ -1,5 +1,11 @@
 fileFormatVersion: 2
-guid: a3b997593a4f12c4c991490593f3b513
+<<<<<<< HEAD
+guid: e99d8a30b3eafc34e85a25cb7a8c3f1d
+=======
+guid: 6128740614fad104ea14674c1aad2ef0
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
 TextScriptImporter:
+  externalObjects: {}
   userData: 
   assetBundleName: 
+  assetBundleVariant: 

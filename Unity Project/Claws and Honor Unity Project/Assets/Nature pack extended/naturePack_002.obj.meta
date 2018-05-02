@@ -1,9 +1,13 @@
 fileFormatVersion: 2
-guid: 3d5f662ee8f060b4aabc729f0a5962c4
+<<<<<<< HEAD
+guid: 863cd668f1c9ba8489d1e3bae5bf65b3
+=======
+guid: ab0a3e6c0f9622c438d592e085eabffe
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
 timeCreated: 1466334987
 licenseType: Store
 ModelImporter:
-  serializedVersion: 19
+  serializedVersion: 22
   fileIDToRecycleName:
     100000: Mesh1_Plate_River_Dirt_Model
     100002: //RootNode
@@ -12,26 +16,59 @@ ModelImporter:
     2300000: Mesh1_Plate_River_Dirt_Model
     3300000: Mesh1_Plate_River_Dirt_Model
     4300000: Mesh1_Plate_River_Dirt_Model
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leafs
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 998e9152b123b6e4fbe27474460f6c5d, type: 2}
+=======
+    second: {fileID: 2100000, guid: 942b87f6481d2fc419717a3f0e0974fb, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: ee2a49b1b920de342996b967915a1a13, type: 2}
+=======
+    second: {fileID: 2100000, guid: 18e31e5d2e74f2e41b62082e128d9884, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: e97caadc53576d24f94987cab6490ffe, type: 2}
+=======
+    second: {fileID: 2100000, guid: 9eba0341b355c3549b1509a61f557980, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
-    resampleRotations: 1
+    resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -39,13 +76,18 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
@@ -55,9 +97,11 @@ ModelImporter:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+    normalCalculationMode: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -68,7 +112,10 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 0
   humanoidOversampling: 1
