@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: vegOpaque
+  m_Shader: {fileID: 4800000, guid: 661e565482aee0e49acd84943ffb38c2, type: 3}
+  m_ShaderKeywords: DBG_NONE OPAQUEPASS
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2452
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BmpMap:
+        m_Texture: {fileID: 2800000, guid: 216f296a0eba3be408506c53d55c8f77, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GITexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 0.004725135, y: 0.0061390265}
+        m_Offset: {x: 0.64553416, y: 0.5248552}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 3e8019511e262814f81b5026cebc8b2a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OpacityTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BmpScale: 1
+    - _ColorMask: 15
+    - _Cutoff: 0.65
+    - _CutoffNear: 0.2
+    - _DensityFalloffDistance: 200
+    - _DirectOcclusionBoost: 0.3
+    - _DstBlend: 0
+    - _PruneDistanceScale: 30
+    - _PruneFreeDistance: 131.9
+    - _SpecPower: 56
+    - _SpriteCameraUp: 1
+    - _SrcBlend: 1
+    - _Transmission: 1
+    - _ZTest: 4
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _PruneRefCountsSpriteMesh: {r: 700, g: 2200, b: 0, a: 0}
+    - _SpecColor: {r: 0.43901384, g: 0.5147059, b: 0.50530964, a: 1}
