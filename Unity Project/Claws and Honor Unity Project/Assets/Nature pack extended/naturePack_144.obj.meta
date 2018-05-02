@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 0c5c94c6da145d842b1d79f38102216e
+=======
+<<<<<<< HEAD
+guid: e6ebf685c4870c74a9aaea9b758286cf
+=======
+guid: 0c5c94c6da145d842b1d79f38102216e
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 timeCreated: 1466335004
 licenseType: Store
 ModelImporter:
@@ -17,17 +25,41 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Leafs
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 942b87f6481d2fc419717a3f0e0974fb, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: d4b959bccf992fe46bc3a9a16e6a390f, type: 2}
+=======
+    second: {fileID: 2100000, guid: 942b87f6481d2fc419717a3f0e0974fb, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Stone
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 8f578e3f981a42542b3418a1ef8f4cc9, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 5d9646e48c47f8b49897a5b93207325d, type: 2}
+=======
+    second: {fileID: 2100000, guid: 8f578e3f981a42542b3418a1ef8f4cc9, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Water
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 18e31e5d2e74f2e41b62082e128d9884, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: b03c04a9521ce014d99a249e64cf40e7, type: 2}
+=======
+    second: {fileID: 2100000, guid: 18e31e5d2e74f2e41b62082e128d9884, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   materials:
     importMaterials: 1
     materialName: 0

@@ -1,6 +1,10 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: 620928f255da62f4ba368183d1a6ea99
+=======
+guid: 7fd1b33c372c72047b02c73911a4a622
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 =======
 guid: 554827a48dfe16a4ca3080221551b8f8
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
@@ -22,7 +26,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Leafs
 <<<<<<< HEAD
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 998e9152b123b6e4fbe27474460f6c5d, type: 2}
+=======
+    second: {fileID: 2100000, guid: d4b959bccf992fe46bc3a9a16e6a390f, type: 2}
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 =======
     second: {fileID: 2100000, guid: 942b87f6481d2fc419717a3f0e0974fb, type: 2}
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551

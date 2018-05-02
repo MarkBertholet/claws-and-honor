@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: cef06bc57ab727540a03fc10cedbb6d7
+=======
+<<<<<<< HEAD
+guid: efa7088119e40684d9184349f0f5b581
+=======
+guid: cef06bc57ab727540a03fc10cedbb6d7
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 timeCreated: 1505039257
 licenseType: Store
 ModelImporter:
@@ -15,12 +23,28 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Brown.10
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 8d6c3cec454ed0f45ae5b29c2d4b23cb, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 637e86a836f8d064daad5d66f7416c23, type: 2}
+=======
+    second: {fileID: 2100000, guid: 8d6c3cec454ed0f45ae5b29c2d4b23cb, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Yellow.3
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 0914c6013bfd1ae4b997e05274300efb, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: b3175ce266ee9cd4e915737f12f237d6, type: 2}
+=======
+    second: {fileID: 2100000, guid: 0914c6013bfd1ae4b997e05274300efb, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   materials:
     importMaterials: 1
     materialName: 0

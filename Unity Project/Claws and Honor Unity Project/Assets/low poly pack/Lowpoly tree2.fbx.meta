@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 0e5a8b7870029dd4da540e157c21bf27
+=======
+<<<<<<< HEAD
+guid: 4b9ef5828c98245478193c6f2923ab2c
+=======
+guid: 0e5a8b7870029dd4da540e157c21bf27
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 timeCreated: 1497967163
 licenseType: Store
 ModelImporter:
@@ -2253,157 +2261,405 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_B03
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: fdbdf2de6e29c34459bc6bc8dbbc6f34, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 36209dd4afbdee343a55e3cb466a6fbe, type: 2}
+=======
+    second: {fileID: 2100000, guid: fdbdf2de6e29c34459bc6bc8dbbc6f34, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_B04
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: b18e9376a605ccb4d901d652a8276690, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 0810e7cccdc2b14458f02c9216d3efa4, type: 2}
+=======
+    second: {fileID: 2100000, guid: b18e9376a605ccb4d901d652a8276690, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_B05
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 4e0426c3ee828e34aa277e500952d0ec, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 3a47225c72e65ba43a9a513a89978042, type: 2}
+=======
+    second: {fileID: 2100000, guid: 4e0426c3ee828e34aa277e500952d0ec, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_B06
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: e3cb47a4ddf2788419b84d16a09af07c, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: ada7bb0537ebc56459baae2b906624fb, type: 2}
+=======
+    second: {fileID: 2100000, guid: e3cb47a4ddf2788419b84d16a09af07c, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_C06
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 202f42891c7ee7540a6a596e15f160f2, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 385b87a95082bee49b417f9089a5338f, type: 2}
+=======
+    second: {fileID: 2100000, guid: 202f42891c7ee7540a6a596e15f160f2, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_C07
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 467f4fb8027f94445b1dae5f036acdda, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 1e2d7b27bc69cef4298975181e113fd9, type: 2}
+=======
+    second: {fileID: 2100000, guid: 467f4fb8027f94445b1dae5f036acdda, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_C08
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 3c77f4a5d9d876b4c8ac2502f3825775, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: e464090ae498f4842837c0071f621faf, type: 2}
+=======
+    second: {fileID: 2100000, guid: 3c77f4a5d9d876b4c8ac2502f3825775, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_D02
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: bdfa873d55800904c89b7ad566dde6b2, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 0496a37ec1c785443850dda4c90dd4ed, type: 2}
+=======
+    second: {fileID: 2100000, guid: bdfa873d55800904c89b7ad566dde6b2, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_D05
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 91b10d76f6bb4fc4daea377481a0d6dd, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: be02c8df18a19ca439e92c343d202763, type: 2}
+=======
+    second: {fileID: 2100000, guid: 91b10d76f6bb4fc4daea377481a0d6dd, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_D06
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: dbcd7117901eb0f4b8e495e833d8fec2, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 8b22ebbd7a4d74e44992805e532cf2a9, type: 2}
+=======
+    second: {fileID: 2100000, guid: dbcd7117901eb0f4b8e495e833d8fec2, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_D07
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 05946e483feb88b4b85942dfdb687b18, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: fb33273e37b209844a1acfe489f1fedc, type: 2}
+=======
+    second: {fileID: 2100000, guid: 05946e483feb88b4b85942dfdb687b18, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_D08
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: cda1d7c4edac98e4da4c5ea1120b4357, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: b78867affb34070448eca3d4cc9502fa, type: 2}
+=======
+    second: {fileID: 2100000, guid: cda1d7c4edac98e4da4c5ea1120b4357, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_E02
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 24063605b33f485488a57c62d0be80a8, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: ae4735952c684b548a3abfdf6290c026, type: 2}
+=======
+    second: {fileID: 2100000, guid: 24063605b33f485488a57c62d0be80a8, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_E05
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 25ef1a0cb0ff6984eb3c723edd39a740, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 0c8e7da402ebee04f985e0616fd78b61, type: 2}
+=======
+    second: {fileID: 2100000, guid: 25ef1a0cb0ff6984eb3c723edd39a740, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_F04
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 817cfa7d252feb949b14541e6152bc7e, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 794d6d8fb0ef7b341837a5890a6e91b5, type: 2}
+=======
+    second: {fileID: 2100000, guid: 817cfa7d252feb949b14541e6152bc7e, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_F07
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 39bb7e097a53be74f878e55de6c1b109, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 49aabd68e2aa443489622c8c761f82ff, type: 2}
+=======
+    second: {fileID: 2100000, guid: 39bb7e097a53be74f878e55de6c1b109, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_G03
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: cd9e313d4bcf5634791c43ec622f53c5, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 3e93ad77678351a49af372e8457088a7, type: 2}
+=======
+    second: {fileID: 2100000, guid: cd9e313d4bcf5634791c43ec622f53c5, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_G06
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 46b0f5f7fb57838418f62387ceb0261e, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 1a9dd037dada2f64591fcfc7b77a729e, type: 2}
+=======
+    second: {fileID: 2100000, guid: 46b0f5f7fb57838418f62387ceb0261e, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_G07
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 6407e7adf4905b64ba98cadf8d463172, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: ac503ca746b0e3a42a855629b34e76a0, type: 2}
+=======
+    second: {fileID: 2100000, guid: 6407e7adf4905b64ba98cadf8d463172, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_G08
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 5f7f58fe2297b2c4ebfec328315156cc, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 51005e5891943654d9f26855e4fc7880, type: 2}
+=======
+    second: {fileID: 2100000, guid: 5f7f58fe2297b2c4ebfec328315156cc, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_H08
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: fce0a06a8e34aee468e456ce6f6d9e1c, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: d4f26cac59ca7b54abf9e84a407a69db, type: 2}
+=======
+    second: {fileID: 2100000, guid: fce0a06a8e34aee468e456ce6f6d9e1c, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_I03
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: f992b2658e0a51a43900cadce3725c61, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 1ec32dad2a2287743a9e2fd28f717ae1, type: 2}
+=======
+    second: {fileID: 2100000, guid: f992b2658e0a51a43900cadce3725c61, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_I08
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 0c5b12ea0fb357645aeb6d908a0c8059, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 471ab08e2df18464a89d98e6d6d937f3, type: 2}
+=======
+    second: {fileID: 2100000, guid: 0c5b12ea0fb357645aeb6d908a0c8059, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_L02
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 3d6be30ee46f5774c95879812155144b, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: a2a2e9a7a7870ff41b9bbe45d2759775, type: 2}
+=======
+    second: {fileID: 2100000, guid: 3d6be30ee46f5774c95879812155144b, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_M00
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: b8f15caa2a238f744a84b0051bb553db, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 5b72b3b8f69adb44b8fa4eef39d9164f, type: 2}
+=======
+    second: {fileID: 2100000, guid: b8f15caa2a238f744a84b0051bb553db, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_M02
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 678d17e9e7fda9b4eaeda54abbca199c, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 4a5b473065b330046bd7612754704fb9, type: 2}
+=======
+    second: {fileID: 2100000, guid: 678d17e9e7fda9b4eaeda54abbca199c, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_M04
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 61f4ee8036e20b649b16038a15ee8adc, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 231c45d0dcc3dfd46bb908ff44c2f394, type: 2}
+=======
+    second: {fileID: 2100000, guid: 61f4ee8036e20b649b16038a15ee8adc, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_M05
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: f4b6712980cd11d44a494d484289ad07, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: b9bda3581ddbe364a87ba5b171cb8fcc, type: 2}
+=======
+    second: {fileID: 2100000, guid: f4b6712980cd11d44a494d484289ad07, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: FrontColor
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: d82f6d8dfd0edaa4396ee4c6a8e16cac, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 1b5eea496a77df542a82f6640aa7554e, type: 2}
+=======
+    second: {fileID: 2100000, guid: d82f6d8dfd0edaa4396ee4c6a8e16cac, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Terrazzo
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 7db1081389bff244b9515daa63b02ba8, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 1e4a2cf6a4cec5548a495fd99e6df256, type: 2}
+=======
+    second: {fileID: 2100000, guid: 7db1081389bff244b9515daa63b02ba8, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Translucent_Glass_Blue
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: c3eb033140627314b9da3ab0a786dcd0, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 7ae7013304b9c7a4e8c4ab3ef6bb55e5, type: 2}
+=======
+    second: {fileID: 2100000, guid: c3eb033140627314b9da3ab0a786dcd0, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   materials:
     importMaterials: 1
     materialName: 0

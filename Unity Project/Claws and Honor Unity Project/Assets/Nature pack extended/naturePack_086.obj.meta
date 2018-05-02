@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 10d666d7edcb1314ea8601625b40411a
+=======
+<<<<<<< HEAD
+guid: 74d1bc3b76a798f47bbcb0f4ae489653
+=======
+guid: 10d666d7edcb1314ea8601625b40411a
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 timeCreated: 1466334998
 licenseType: Store
 ModelImporter:
@@ -17,12 +25,28 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Light_Wood
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 88e9e3ea19b0062438948ac926a54d86, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 1fc8f21a363c55e4ebfc8ba64063a3c0, type: 2}
+=======
+    second: {fileID: 2100000, guid: 88e9e3ea19b0062438948ac926a54d86, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Wood
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 9eba0341b355c3549b1509a61f557980, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 7a2ea704fb489334b88b67ab45644771, type: 2}
+=======
+    second: {fileID: 2100000, guid: 9eba0341b355c3549b1509a61f557980, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   materials:
     importMaterials: 1
     materialName: 0

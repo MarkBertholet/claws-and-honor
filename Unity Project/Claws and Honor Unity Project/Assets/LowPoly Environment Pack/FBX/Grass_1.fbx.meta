@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 8fdba3fd28be23a4bbcff0cd44d70520
+=======
+<<<<<<< HEAD
+guid: b150efe22a344ca45b8ff90d92c2c8a6
+=======
+guid: 8fdba3fd28be23a4bbcff0cd44d70520
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 timeCreated: 1504768173
 licenseType: Store
 ModelImporter:
@@ -15,7 +23,15 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Green.2
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 04ef80680c359934bb5487f36515d982, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: b705c17da773e924eb839b4b8b4116c9, type: 2}
+=======
+    second: {fileID: 2100000, guid: 04ef80680c359934bb5487f36515d982, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   materials:
     importMaterials: 1
     materialName: 0

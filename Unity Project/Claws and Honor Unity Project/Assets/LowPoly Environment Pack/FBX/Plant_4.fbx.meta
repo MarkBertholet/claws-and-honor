@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 8161bc8a1fe1b6a47a6a795f06caac22
+=======
+<<<<<<< HEAD
+guid: c62693b7c7cb63f4c904e021d382ac8b
+=======
+guid: 8161bc8a1fe1b6a47a6a795f06caac22
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 timeCreated: 1504768173
 licenseType: Store
 ModelImporter:
@@ -15,7 +23,15 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Yellow.2
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: bfa92181077fbc3449f815fdd2b7f57b, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: d0094eb3f9d397541942f17b23745e03, type: 2}
+=======
+    second: {fileID: 2100000, guid: bfa92181077fbc3449f815fdd2b7f57b, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   materials:
     importMaterials: 1
     materialName: 0

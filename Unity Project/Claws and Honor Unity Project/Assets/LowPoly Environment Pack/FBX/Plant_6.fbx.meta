@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 3aa2bc46adb5564478eb4637ebdcc70e
+=======
+<<<<<<< HEAD
+guid: 8d279683d80e67e41879463878d2bc77
+=======
+guid: 3aa2bc46adb5564478eb4637ebdcc70e
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 timeCreated: 1504768174
 licenseType: Store
 ModelImporter:
@@ -15,12 +23,28 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Green.8
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: d030cb90f1043004795b095001197310, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: a2ae1b640d750194fba1082a3de7ba11, type: 2}
+=======
+    second: {fileID: 2100000, guid: d030cb90f1043004795b095001197310, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Pink.1
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: d894dc4edcb56664f97f86eea4b1bc29, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: c087f11284aef724d99e9409031e9b11, type: 2}
+=======
+    second: {fileID: 2100000, guid: d894dc4edcb56664f97f86eea4b1bc29, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   materials:
     importMaterials: 1
     materialName: 0

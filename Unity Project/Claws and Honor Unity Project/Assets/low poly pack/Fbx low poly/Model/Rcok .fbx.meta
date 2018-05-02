@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 7a19d7996d189d6488f7752c89a37a90
+=======
+<<<<<<< HEAD
+guid: f365f67335ad823428ae084ecd01642e
+=======
+guid: 7a19d7996d189d6488f7752c89a37a90
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 timeCreated: 1494513423
 licenseType: Store
 ModelImporter:
@@ -33,7 +41,15 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_A07
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: b12ac8d89186bf44eb528511f1c54902, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 88ab7f307950a474e9a3b3432dfb6ab4, type: 2}
+=======
+    second: {fileID: 2100000, guid: b12ac8d89186bf44eb528511f1c54902, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   materials:
     importMaterials: 1
     materialName: 0

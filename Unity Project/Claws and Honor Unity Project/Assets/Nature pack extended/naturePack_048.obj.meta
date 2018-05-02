@@ -1,6 +1,10 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: e49452ee4086ff643b8f3af1e376b20e
+=======
+guid: 54f670553fd4d3e4fb995c344c9928bf
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 =======
 guid: b63c64432d3094d4199b4c72650a4c35
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
@@ -22,7 +26,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Wood
 <<<<<<< HEAD
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: e97caadc53576d24f94987cab6490ffe, type: 2}
+=======
+    second: {fileID: 2100000, guid: 7a2ea704fb489334b88b67ab45644771, type: 2}
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 =======
     second: {fileID: 2100000, guid: 9eba0341b355c3549b1509a61f557980, type: 2}
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
