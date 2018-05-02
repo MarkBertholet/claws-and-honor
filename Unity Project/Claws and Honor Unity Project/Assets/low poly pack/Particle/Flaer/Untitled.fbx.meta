@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 5c9a66297d21c20458138aac8dcdcb44
+=======
+guid: 6d38d3d96a3715a4096dc4be46482fa8
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
 timeCreated: 1496343375
 licenseType: Store
 ModelImporter:
@@ -19,7 +23,11 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_D05
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 6d9f707884de2e249aba5d1ab43b6bf1, type: 2}
+=======
+    second: {fileID: 2100000, guid: d80ddd1df0122d045acd53bc4a1b81db, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
   materials:
     importMaterials: 1
     materialName: 0

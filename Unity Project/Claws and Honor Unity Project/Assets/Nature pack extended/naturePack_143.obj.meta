@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 3f4b14c33fe4ad249a8bfdac12e726c1
+=======
+guid: 025c7d2ad15e6994d87a3efbec880dc3
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
 timeCreated: 1466335005
 licenseType: Store
 ModelImporter:
@@ -17,12 +21,20 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Stone
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 5d9646e48c47f8b49897a5b93207325d, type: 2}
+=======
+    second: {fileID: 2100000, guid: 8f578e3f981a42542b3418a1ef8f4cc9, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Water
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: b03c04a9521ce014d99a249e64cf40e7, type: 2}
+=======
+    second: {fileID: 2100000, guid: 18e31e5d2e74f2e41b62082e128d9884, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
   materials:
     importMaterials: 1
     materialName: 0

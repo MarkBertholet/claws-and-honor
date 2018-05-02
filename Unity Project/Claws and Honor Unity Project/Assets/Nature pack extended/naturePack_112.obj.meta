@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: a190bb87977f3a4418df68a0a60ac380
+=======
+guid: 8be8bee00810dcb439ec5e5fca33916e
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
 timeCreated: 1466334994
 licenseType: Store
 ModelImporter:
@@ -17,12 +21,20 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: FrontColor
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: c1de63905597ada41a18a05248fbe942, type: 2}
+=======
+    second: {fileID: 2100000, guid: 12cfde65c5c14af448377d03cc7e071f, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Wood
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 7a2ea704fb489334b88b67ab45644771, type: 2}
+=======
+    second: {fileID: 2100000, guid: 9eba0341b355c3549b1509a61f557980, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
   materials:
     importMaterials: 1
     materialName: 0

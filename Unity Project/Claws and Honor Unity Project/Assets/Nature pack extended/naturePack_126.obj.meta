@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 81dd5478fda0cfc48bc3fb3676e456b3
+=======
+guid: 131e33269a9aedb42b3f48e8695e1b99
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
 timeCreated: 1466335005
 licenseType: Store
 ModelImporter:
@@ -17,12 +21,20 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Water
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: b03c04a9521ce014d99a249e64cf40e7, type: 2}
+=======
+    second: {fileID: 2100000, guid: 18e31e5d2e74f2e41b62082e128d9884, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Wood
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 7a2ea704fb489334b88b67ab45644771, type: 2}
+=======
+    second: {fileID: 2100000, guid: 9eba0341b355c3549b1509a61f557980, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
   materials:
     importMaterials: 1
     materialName: 0

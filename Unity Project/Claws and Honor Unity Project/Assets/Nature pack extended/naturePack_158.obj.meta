@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 868629240d2fe0047b5910d3da5e8cb8
+=======
+guid: 44f0f664250199342b0cac63a8d182ec
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
 timeCreated: 1466335003
 licenseType: Store
 ModelImporter:
@@ -17,7 +21,11 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Stone
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 5d9646e48c47f8b49897a5b93207325d, type: 2}
+=======
+    second: {fileID: 2100000, guid: 8f578e3f981a42542b3418a1ef8f4cc9, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
   materials:
     importMaterials: 1
     materialName: 0

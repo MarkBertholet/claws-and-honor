@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: c077bd5a0dad26742a782fbdeb868f2e
+=======
+guid: 6ce71e40200e7f14aa93fcc4f7615899
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
 timeCreated: 1466334989
 licenseType: Store
 ModelImporter:
@@ -32,7 +36,11 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Green_leafs
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 96819ac1af312c94c887984500faf484, type: 2}
+=======
+    second: {fileID: 2100000, guid: b679bb13e31dc864ab322b593df03572, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
   materials:
     importMaterials: 1
     materialName: 0

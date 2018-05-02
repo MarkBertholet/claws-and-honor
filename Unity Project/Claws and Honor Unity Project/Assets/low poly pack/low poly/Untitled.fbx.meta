@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 841c9a69118e2c147b2e5d134a424772
+=======
+guid: 16d627c1ed1facb438a3f74e2595861a
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
 timeCreated: 1498404741
 licenseType: Store
 ModelImporter:
@@ -116,22 +120,38 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_C08
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: cbb85102894f1694085d56665be964ec, type: 2}
+=======
+    second: {fileID: 2100000, guid: 422dedde8614b0f419ec2c1c8b360b63, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_E02
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: d3ef67b3a394df043be8472c0063c134, type: 2}
+=======
+    second: {fileID: 2100000, guid: 219a3e1d87bb37f4ca6d7e86ead415b0, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Color_M04
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 36567e1d3260c114d9ec2c8901976392, type: 2}
+=======
+    second: {fileID: 2100000, guid: 889905152c8af7c44ae0efdd39590361, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: FrontColor
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 1d332ac1d2c90084c88b0d841a29e5e8, type: 2}
+=======
+    second: {fileID: 2100000, guid: 3a318be6be023274dbbaa1019b86d628, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
   materials:
     importMaterials: 1
     materialName: 0

@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 58454c6192249384fbf62ea823175a9e
+=======
+guid: 4fc06ccd3d60c2a4d8cfb9511c32f295
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
 timeCreated: 1499024025
 licenseType: Store
 ModelImporter:
@@ -245,17 +249,29 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Mat
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 9a34e18bf8df3474db2d08feb6f76b9c, type: 2}
+=======
+    second: {fileID: 2100000, guid: e77507c107a1b5f4b8cf09278f6af7b1, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Mat.1
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 2f52dbba6058e634f9782492708d1721, type: 2}
+=======
+    second: {fileID: 2100000, guid: 6ce659d2fe39522438e356d832e89560, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Mat.2
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 92c42936fa524a741b3ac7f209e06cad, type: 2}
+=======
+    second: {fileID: 2100000, guid: 3f45d03596308ad44821754ff335910d, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
   materials:
     importMaterials: 1
     materialName: 0

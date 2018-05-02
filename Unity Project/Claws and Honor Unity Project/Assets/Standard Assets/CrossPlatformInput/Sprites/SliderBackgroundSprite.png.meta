@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: f350aa246be9302459f62bb8741cee9c
+=======
+guid: 6378e34009ba3c442bdd17f64dacb54b
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
 TextureImporter:
   fileIDToRecycleName:
     21300000: SliderBackground

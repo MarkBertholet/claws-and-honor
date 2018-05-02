@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: eb58914b685440d498f9697cfcbb0632
+=======
+guid: 6d16ca95e9b87374cbc3ac5ff40995d5
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
 timeCreated: 1504768179
 licenseType: Store
 ModelImporter:
@@ -15,12 +19,20 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Green.5
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 4ef4c9e43ac28ef47beb9a66093d926f, type: 2}
+=======
+    second: {fileID: 2100000, guid: d2ea35526efe1e548a2f77049c3d2275, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Purple.1
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 05462f1b3deaef249a012ef5c31aa0fb, type: 2}
+=======
+    second: {fileID: 2100000, guid: 3a5d9027b1f95294ba7d895e1bfd5e7b, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
   materials:
     importMaterials: 1
     materialName: 0

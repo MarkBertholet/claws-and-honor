@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 01750101736b33848891e353358ea6c3
+=======
+guid: 1638fb6aa57a9b64d945f89feeec9349
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -41,7 +45,11 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: bushes
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 76465bf58cc0a094f982ccbebcefe6fa, type: 2}
+=======
+    second: {fileID: 2100000, guid: 3efe25dabaa3ff84fa53daee76d889c9, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
   materials:
     importMaterials: 1
     materialName: 0

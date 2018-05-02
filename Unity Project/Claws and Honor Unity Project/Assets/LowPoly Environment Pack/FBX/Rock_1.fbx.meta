@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: ad6cd2cef05f5d94080fd80321e7316f
+=======
+guid: 65bf2ebe36301924ba634f0b58bd8d53
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
 timeCreated: 1504768177
 licenseType: Store
 ModelImporter:
@@ -15,7 +19,11 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Gray.2
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: be7aafb076489ee47a64c6c3d919db39, type: 2}
+=======
+    second: {fileID: 2100000, guid: 19edbcf67dd5f8c41ac21ed1a11cf4d1, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
   materials:
     importMaterials: 1
     materialName: 0

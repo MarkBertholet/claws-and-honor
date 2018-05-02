@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 4aa08e693ac2ce643acd93dd0dff9cd5
+=======
+guid: 87f85e3dad3cef54ca4fedde0de4c00e
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -14,7 +18,11 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Fern_01
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: b2dfd9cd60b408d4280de16e1f3690e6, type: 2}
+=======
+    second: {fileID: 2100000, guid: 76fa2e98ea87ea54d91136896bd3df66, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
   materials:
     importMaterials: 1
     materialName: 0

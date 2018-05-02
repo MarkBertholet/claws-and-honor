@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 8af405cedcddaec4789cc5f40a7d4147
+=======
+guid: 5830dce4b6419db4d8ff63124869c9ee
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -17,7 +21,11 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: WaterPlaneMaterial
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: fe4fd034604f1104baab533d5a4116ab, type: 2}
+=======
+    second: {fileID: 2100000, guid: e3ddcc520ac0b8b4caa693899253c86e, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
   materials:
     importMaterials: 1
     materialName: 1

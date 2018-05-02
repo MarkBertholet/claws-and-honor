@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 7a6c38101249db241be304541057865d
+=======
+guid: 0c62cc0e9bf75ae4bad68e4b904af176
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
 timeCreated: 1466334990
 licenseType: Store
 ModelImporter:
@@ -17,12 +21,20 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Fall_Leafs
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 37725178708fe3743a96187bde375672, type: 2}
+=======
+    second: {fileID: 2100000, guid: 6d0456d0031f7a145b113483c7d72fb9, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Wood
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 7a2ea704fb489334b88b67ab45644771, type: 2}
+=======
+    second: {fileID: 2100000, guid: 9eba0341b355c3549b1509a61f557980, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
   materials:
     importMaterials: 1
     materialName: 0

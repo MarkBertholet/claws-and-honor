@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 331d2d9f95be0ba4bb3547b7bc523d1d
+=======
+guid: 24fcbcf69764a124c8d3f65446659513
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -14,7 +18,11 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: LowPlants_01
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 084e7d2519d857e4f9d3926cf121778d, type: 2}
+=======
+    second: {fileID: 2100000, guid: e73c85ddc5f487a4b98550442f61ccfb, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
   materials:
     importMaterials: 1
     materialName: 0
