@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: bf8d317df722d644f99e8ff3926c99d9
+=======
+guid: 7860ebc75404fa644a3c7f829a608e8e
+>>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
 timeCreated: 1504768178
 licenseType: Store
 ModelImporter:
@@ -10,6 +14,15 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: Mounting_2
+<<<<<<< HEAD
+=======
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange.3
+    second: {fileID: 2100000, guid: ecc9aa92c92769246a1e8b76cc2f0b84, type: 2}
+>>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
   materials:
     importMaterials: 1
     materialName: 0

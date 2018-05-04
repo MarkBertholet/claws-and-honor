@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 932eaa682e3b6084b83c6297eeceb983
+=======
+guid: 85780d59fd9f2b2449929ba28304ec1e
+>>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
 timeCreated: 1466334995
 licenseType: Store
 ModelImporter:
@@ -12,6 +16,15 @@ ModelImporter:
     2300000: Mesh1_Rock_6_Model
     3300000: Mesh1_Rock_6_Model
     4300000: Mesh1_Rock_6_Model
+<<<<<<< HEAD
+=======
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone
+    second: {fileID: 2100000, guid: 5d9646e48c47f8b49897a5b93207325d, type: 2}
+>>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
   materials:
     importMaterials: 1
     materialName: 0

@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: ea5873cfd9158664f89459f0c9e1d853
+=======
+guid: f350aa246be9302459f62bb8741cee9c
+>>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
 TextureImporter:
   fileIDToRecycleName:
     21300000: SliderBackground

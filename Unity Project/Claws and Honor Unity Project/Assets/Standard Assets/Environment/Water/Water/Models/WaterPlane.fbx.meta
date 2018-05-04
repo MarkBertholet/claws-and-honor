@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: ba6a41dc489914734857bb5924eb70ad
+=======
+guid: 8af405cedcddaec4789cc5f40a7d4147
+>>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
@@ -12,6 +16,15 @@ ModelImporter:
     4300004: pCylinder1
     4300006: waterPlaneMesh
     11100000: //RootNode
+<<<<<<< HEAD
+=======
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WaterPlaneMaterial
+    second: {fileID: 2100000, guid: fe4fd034604f1104baab533d5a4116ab, type: 2}
+>>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
   materials:
     importMaterials: 1
     materialName: 1

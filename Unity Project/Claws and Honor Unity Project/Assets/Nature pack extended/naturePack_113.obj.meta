@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 543d0401efe0b4642b3635f6d89ce881
+=======
+guid: 7c480537fb8af8c4183aed032511cd1c
+>>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
 timeCreated: 1466334988
 licenseType: Store
 ModelImporter:
@@ -12,6 +16,20 @@ ModelImporter:
     2300000: Mesh1_Mushroom_Tall_Model
     3300000: Mesh1_Mushroom_Tall_Model
     4300000: Mesh1_Mushroom_Tall_Model
+<<<<<<< HEAD
+=======
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: c1de63905597ada41a18a05248fbe942, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: 7a2ea704fb489334b88b67ab45644771, type: 2}
+>>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
   materials:
     importMaterials: 1
     materialName: 0

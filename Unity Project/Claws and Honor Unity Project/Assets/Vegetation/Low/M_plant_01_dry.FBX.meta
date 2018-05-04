@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: f844b1c2bb9917245a2fd0c0c1236c8f
+=======
+guid: 127087d1d6329874b94f05922282df1e
+>>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
@@ -9,6 +13,15 @@ ModelImporter:
     3300000: //RootNode
     4300000: M_plant_01_dry
     9500000: //RootNode
+<<<<<<< HEAD
+=======
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LowPlants_01
+    second: {fileID: 2100000, guid: 084e7d2519d857e4f9d3926cf121778d, type: 2}
+>>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
   materials:
     importMaterials: 1
     materialName: 0

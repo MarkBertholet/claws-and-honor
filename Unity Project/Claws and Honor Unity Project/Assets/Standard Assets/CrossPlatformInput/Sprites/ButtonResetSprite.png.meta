@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: a94c9a7eb94ceec4a8d67a1890e22e51
+=======
+guid: 38dd74b6b329a41468290e04cb4b516d
+>>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
 TextureImporter:
   fileIDToRecycleName:
     21300000: ResetButton

@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: c3b2be10858a8924aab5540799907876
+=======
+guid: 8ba89a5a9f119844e9dd841612119ff9
+>>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
 timeCreated: 1466335000
 licenseType: Store
 ModelImporter:
@@ -12,6 +16,20 @@ ModelImporter:
     2300000: Mesh1_Tall_Rock_2_Model
     3300000: Mesh1_Tall_Rock_2_Model
     4300000: Mesh1_Tall_Rock_2_Model
+<<<<<<< HEAD
+=======
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green_leafs
+    second: {fileID: 2100000, guid: 96819ac1af312c94c887984500faf484, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: 7a2ea704fb489334b88b67ab45644771, type: 2}
+>>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
   materials:
     importMaterials: 1
     materialName: 0

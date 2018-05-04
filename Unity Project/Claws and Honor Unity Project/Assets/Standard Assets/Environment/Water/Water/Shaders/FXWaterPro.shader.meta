@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 1cac2e0bcc34e4b3cbb4bd85982eba83
+=======
+guid: e4a6f6a1aac6d6a4684ada58b1d7040e
+>>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
 ShaderImporter:
   defaultTextures: []
   userData: 

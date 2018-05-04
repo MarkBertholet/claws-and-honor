@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 4579ef3c88d018245aadd8a923d58112
+=======
+guid: d4b959bccf992fe46bc3a9a16e6a390f
+>>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
 timeCreated: 1466334982
 licenseType: Store
 NativeFormatImporter:

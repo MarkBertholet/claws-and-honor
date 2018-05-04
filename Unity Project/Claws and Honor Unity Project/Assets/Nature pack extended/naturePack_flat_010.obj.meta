@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 1ffc3ed37bd42d441a4d8205755a4543
+=======
+guid: f6f92eb2acccf6140b1cef5354899e8c
+>>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
 timeCreated: 1466334985
 licenseType: Store
 ModelImporter:
@@ -32,6 +36,20 @@ ModelImporter:
     4300004: Mesh3_Flower_Red_Model
     4300006: Mesh4_Flower_Red_Model
     4300008: Mesh5_Flower_Red_Model
+<<<<<<< HEAD
+=======
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green_leafs
+    second: {fileID: 2100000, guid: 96819ac1af312c94c887984500faf484, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mushroom_Red
+    second: {fileID: 2100000, guid: 8dc778af1225ef94b899ce3c9ab8c9c2, type: 2}
+>>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
   materials:
     importMaterials: 1
     materialName: 0
