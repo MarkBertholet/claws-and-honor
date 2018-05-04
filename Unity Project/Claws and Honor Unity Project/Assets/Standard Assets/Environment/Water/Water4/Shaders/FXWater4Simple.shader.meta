@@ -1,9 +1,13 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: 8aaff0751054e4a9cb4642d01eaf5be9
 =======
 guid: 3b3eb5d07dd35194c8d5f8cfa945ac85
 >>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
+=======
+guid: 8aaff0751054e4a9cb4642d01eaf5be9
+>>>>>>> parent of bbe187b7... Bear Animation Work
 ShaderImporter:
   defaultTextures: []
   userData: 

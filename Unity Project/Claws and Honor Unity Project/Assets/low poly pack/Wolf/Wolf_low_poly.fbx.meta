@@ -1,9 +1,13 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: e3a99f26c39bfe54dbf3a09dcac2a199
 =======
 guid: 84074e465494f264c82166bc18172112
 >>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
+=======
+guid: e3a99f26c39bfe54dbf3a09dcac2a199
+>>>>>>> parent of bbe187b7... Bear Animation Work
 timeCreated: 1497969034
 licenseType: Store
 ModelImporter:
@@ -245,6 +249,7 @@ ModelImporter:
     13700004: wolf_lod_2_2
     13700006: wolf_lod_3_2
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   externalObjects:
   - first:
@@ -258,6 +263,8 @@ ModelImporter:
       name: Mat.1
     second: {fileID: 2100000, guid: 2f52dbba6058e634f9782492708d1721, type: 2}
 >>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
+=======
+>>>>>>> parent of bbe187b7... Bear Animation Work
   materials:
     importMaterials: 1
     materialName: 0

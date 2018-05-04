@@ -1,9 +1,13 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: b9333f2d706207d4296608889af990a7
 =======
 guid: 9ebc8e8f95214ff48a9ca37d472127c1
 >>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
+=======
+guid: b9333f2d706207d4296608889af990a7
+>>>>>>> parent of bbe187b7... Bear Animation Work
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
@@ -14,6 +18,7 @@ ModelImporter:
     4300000: L_plant_02_dry
     9500000: //RootNode
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   externalObjects:
   - first:
@@ -22,6 +27,8 @@ ModelImporter:
       name: LowPlants_01
     second: {fileID: 2100000, guid: 084e7d2519d857e4f9d3926cf121778d, type: 2}
 >>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
+=======
+>>>>>>> parent of bbe187b7... Bear Animation Work
   materials:
     importMaterials: 1
     materialName: 0

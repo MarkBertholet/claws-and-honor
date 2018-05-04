@@ -1,9 +1,13 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: 22bbf57ec543cee42a5aa0ec2dd9e457
 =======
 guid: c0c736deef1f4324095cce7e2927593b
 >>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
+=======
+guid: 22bbf57ec543cee42a5aa0ec2dd9e457
+>>>>>>> parent of bbe187b7... Bear Animation Work
 MonoImporter:
   serializedVersion: 2
   defaultReferences: []

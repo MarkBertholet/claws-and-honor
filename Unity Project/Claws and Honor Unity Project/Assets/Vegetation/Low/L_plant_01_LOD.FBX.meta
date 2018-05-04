@@ -1,9 +1,13 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: 3233088a78e8929429bb52b01ae4cccd
 =======
 guid: cc9700eaa6267624bbfe40a8353b853e
 >>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
+=======
+guid: 3233088a78e8929429bb52b01ae4cccd
+>>>>>>> parent of bbe187b7... Bear Animation Work
 timeCreated: 1424360523
 licenseType: Store
 ModelImporter:
@@ -15,6 +19,7 @@ ModelImporter:
     3300000: //RootNode
     4300000: L_plant_01_LOD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   externalObjects:
   - first:
@@ -23,6 +28,8 @@ ModelImporter:
       name: LowPlants_01
     second: {fileID: 2100000, guid: 084e7d2519d857e4f9d3926cf121778d, type: 2}
 >>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
+=======
+>>>>>>> parent of bbe187b7... Bear Animation Work
   materials:
     importMaterials: 1
     materialName: 0

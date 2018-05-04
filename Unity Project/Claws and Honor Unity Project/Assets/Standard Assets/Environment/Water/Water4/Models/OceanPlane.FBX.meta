@@ -1,9 +1,13 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: 681e41ee1260343b395ca58745c94870
 =======
 guid: dbc36edfa54ee1b4081e11c4e88ad518
 >>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
+=======
+guid: 681e41ee1260343b395ca58745c94870
+>>>>>>> parent of bbe187b7... Bear Animation Work
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
@@ -15,6 +19,7 @@ ModelImporter:
     4300002: OceanPlane
     11100000: //RootNode
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   externalObjects:
   - first:
@@ -23,6 +28,8 @@ ModelImporter:
       name: OceanPLaneMaterial
     second: {fileID: 2100000, guid: 6ac7a67bd0106ab4c9565856a4c2323b, type: 2}
 >>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
+=======
+>>>>>>> parent of bbe187b7... Bear Animation Work
   materials:
     importMaterials: 1
     materialName: 1

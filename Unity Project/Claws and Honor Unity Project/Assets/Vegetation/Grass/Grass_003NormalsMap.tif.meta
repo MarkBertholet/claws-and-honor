@@ -1,9 +1,13 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: 80c055ace0fc5f74199d87021a9ffc8d
 =======
 guid: e6868bee64de8004ebd0bd0868d63716
 >>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
+=======
+guid: 80c055ace0fc5f74199d87021a9ffc8d
+>>>>>>> parent of bbe187b7... Bear Animation Work
 timeCreated: 1435068060
 licenseType: Store
 TextureImporter:
