@@ -1,9 +1,9 @@
 fileFormatVersion: 2
-guid: c045f1ee5e6d6ff43ae2aeef41a46c37
+guid: 62cb00c3de504054a9f5b49b90684964
 timeCreated: 1494513421
 licenseType: Store
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 19
   fileIDToRecycleName:
     100000: Component_11_1
     100002: Component_11_2
@@ -690,102 +690,26 @@ ModelImporter:
     4300180: Mesh91
     4300182: Mesh92
     4300184: Mesh93
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_A03
-    second: {fileID: 2100000, guid: 5b7a0e75bc014d949b3ce459e295eff7, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_A04
-    second: {fileID: 2100000, guid: 5b894e08c77d2864488f2c6d75237627, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_B04
-    second: {fileID: 2100000, guid: 3f7aa2762d167b745912895d288d2279, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_C08
-    second: {fileID: 2100000, guid: 6fe74340c10a1b74f968d36638b0868f, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_D05
-    second: {fileID: 2100000, guid: ea1f514ea2f00514aa65ac0105c42e87, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_F06
-    second: {fileID: 2100000, guid: 8da3b07a6130a9b44af62185de7a32bf, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_F08
-    second: {fileID: 2100000, guid: 9bd9d61dcaff20940ad3c37e4abc8af8, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_G03
-    second: {fileID: 2100000, guid: bc41a2d62d4e83e4f8385423843630ee, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_G06
-    second: {fileID: 2100000, guid: 2db3c44dae16a624fa2130e7d565e72f, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_H03
-    second: {fileID: 2100000, guid: ce3857beba5025c4988111949766f5e0, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_J03
-    second: {fileID: 2100000, guid: 0f7fb2c8b0b329543953be04e2dbabb0, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_M00
-    second: {fileID: 2100000, guid: f0a3ffacb8143054580eb4282325470f, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_M03
-    second: {fileID: 2100000, guid: 742c02b217863cc4b9ae391f8900bb28, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: FrontColor
-    second: {fileID: 2100000, guid: cd540b090ca88cc46bffe7545bd5599b, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
-    rigImportErrors: 
-    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
-    importAnimatedCustomProperties: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -793,18 +717,13 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    importVisibility: 0
     importBlendShapes: 1
-    importCameras: 0
-    importLights: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    preserveHierarchy: 0
-    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
@@ -814,7 +733,6 @@ ModelImporter:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
-    normalCalculationMode: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:

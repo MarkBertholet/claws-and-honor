@@ -1,11 +1,6 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: 68ae46a80e66a224cad653b3ec428e8e
-=======
-guid: eca8dfba1b956f540aeea80672e9f3b8
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+guid: 469edab27ab6d004d84af2c4a851bd7f
 SpeedTreeImporter:
-  externalObjects: {}
   serializedVersion: 4
   mainColor: {r: 1, g: 1, b: 1, a: 1}
   hueVariation: {r: 1, g: 0.5, b: 0, a: 0.1}
