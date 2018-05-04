@@ -1,10 +1,6 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
-<<<<<<< HEAD
 guid: 64e879f552286624a91333cc01b533ea
-=======
-guid: 17f8a7c875b933348b13d3f09aadf677
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 =======
 guid: 9a35db739abee5c428b7d0d6d94e75af
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
@@ -26,11 +22,7 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: FrontColor
 <<<<<<< HEAD
-<<<<<<< HEAD
     second: {fileID: 2100000, guid: 2cbd06219b567ae4c995dc7fe2f4035b, type: 2}
-=======
-    second: {fileID: 2100000, guid: c1de63905597ada41a18a05248fbe942, type: 2}
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 =======
     second: {fileID: 2100000, guid: 12cfde65c5c14af448377d03cc7e071f, type: 2}
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
@@ -39,11 +31,7 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Leafs
 <<<<<<< HEAD
-<<<<<<< HEAD
     second: {fileID: 2100000, guid: 998e9152b123b6e4fbe27474460f6c5d, type: 2}
-=======
-    second: {fileID: 2100000, guid: d4b959bccf992fe46bc3a9a16e6a390f, type: 2}
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 =======
     second: {fileID: 2100000, guid: 942b87f6481d2fc419717a3f0e0974fb, type: 2}
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
@@ -52,11 +40,7 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Wood
 <<<<<<< HEAD
-<<<<<<< HEAD
     second: {fileID: 2100000, guid: e97caadc53576d24f94987cab6490ffe, type: 2}
-=======
-    second: {fileID: 2100000, guid: 7a2ea704fb489334b88b67ab45644771, type: 2}
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 =======
     second: {fileID: 2100000, guid: 9eba0341b355c3549b1509a61f557980, type: 2}
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551

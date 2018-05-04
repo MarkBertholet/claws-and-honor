@@ -1,10 +1,6 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
-<<<<<<< HEAD
 guid: 97f215cca59122746902e95fdd451d09
-=======
-guid: 1838c2d94ec4e9f46b2b602d9561ae21
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 =======
 guid: 0212bccfe84d4ab44a87b777a9c2738e
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
@@ -26,11 +22,7 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Light_Wood
 <<<<<<< HEAD
-<<<<<<< HEAD
     second: {fileID: 2100000, guid: a120065121ce1c04d9e96d08bde95ca7, type: 2}
-=======
-    second: {fileID: 2100000, guid: 1fc8f21a363c55e4ebfc8ba64063a3c0, type: 2}
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 =======
     second: {fileID: 2100000, guid: 88e9e3ea19b0062438948ac926a54d86, type: 2}
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
@@ -39,11 +31,7 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Wood
 <<<<<<< HEAD
-<<<<<<< HEAD
     second: {fileID: 2100000, guid: e97caadc53576d24f94987cab6490ffe, type: 2}
-=======
-    second: {fileID: 2100000, guid: 7a2ea704fb489334b88b67ab45644771, type: 2}
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 =======
     second: {fileID: 2100000, guid: 9eba0341b355c3549b1509a61f557980, type: 2}
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551

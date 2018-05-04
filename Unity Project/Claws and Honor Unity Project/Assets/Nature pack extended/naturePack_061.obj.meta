@@ -1,13 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
 guid: 8aefd4ccdad483446bc85ef1920b01af
-=======
-<<<<<<< HEAD
-guid: f1c9d1afddc189d41b3b905d43dbf02f
-=======
-guid: 8aefd4ccdad483446bc85ef1920b01af
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 timeCreated: 1466335003
 licenseType: Store
 ModelImporter:
@@ -30,28 +22,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Green_leafs
-<<<<<<< HEAD
     second: {fileID: 2100000, guid: b679bb13e31dc864ab322b593df03572, type: 2}
-=======
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 96819ac1af312c94c887984500faf484, type: 2}
-=======
-    second: {fileID: 2100000, guid: b679bb13e31dc864ab322b593df03572, type: 2}
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Wood
-<<<<<<< HEAD
     second: {fileID: 2100000, guid: 9eba0341b355c3549b1509a61f557980, type: 2}
-=======
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 7a2ea704fb489334b88b67ab45644771, type: 2}
-=======
-    second: {fileID: 2100000, guid: 9eba0341b355c3549b1509a61f557980, type: 2}
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   materials:
     importMaterials: 1
     materialName: 0

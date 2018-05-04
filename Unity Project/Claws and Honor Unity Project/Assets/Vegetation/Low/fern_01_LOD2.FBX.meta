@@ -1,10 +1,6 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
-<<<<<<< HEAD
 guid: db9987c04bc1b714c97e21a771149719
-=======
-guid: caec59afd2654d64c8f8f9b73e6346ec
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 =======
 guid: b4294822f52c2304f9cca6ae38fd289a
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
@@ -23,11 +19,7 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Fern_01
 <<<<<<< HEAD
-<<<<<<< HEAD
     second: {fileID: 2100000, guid: ddff0c11cf4fe66418375926509a60d5, type: 2}
-=======
-    second: {fileID: 2100000, guid: b2dfd9cd60b408d4280de16e1f3690e6, type: 2}
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 =======
     second: {fileID: 2100000, guid: 76fa2e98ea87ea54d91136896bd3df66, type: 2}
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551

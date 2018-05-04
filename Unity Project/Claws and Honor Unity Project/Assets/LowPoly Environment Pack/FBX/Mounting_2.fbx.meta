@@ -1,13 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
 guid: 5eca3de5ce725724ab7440e7f99b77fd
-=======
-<<<<<<< HEAD
-guid: 7860ebc75404fa644a3c7f829a608e8e
-=======
-guid: 5eca3de5ce725724ab7440e7f99b77fd
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 timeCreated: 1504768178
 licenseType: Store
 ModelImporter:
@@ -23,15 +15,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Orange.3
-<<<<<<< HEAD
     second: {fileID: 2100000, guid: cb1dc5df8c8b9e540959d09bd05a0dc3, type: 2}
-=======
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: ecc9aa92c92769246a1e8b76cc2f0b84, type: 2}
-=======
-    second: {fileID: 2100000, guid: cb1dc5df8c8b9e540959d09bd05a0dc3, type: 2}
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   materials:
     importMaterials: 1
     materialName: 0

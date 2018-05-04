@@ -1,10 +1,6 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
-<<<<<<< HEAD
 guid: 8c2b4799e8febcd498a6900ca30d5514
-=======
-guid: f347b899c3ecfcc4fad3c6a740b71fd9
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 =======
 guid: 73b5f7707a711eb4b94fd7fa0c266c48
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
@@ -24,11 +20,7 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: LowPlants_01
 <<<<<<< HEAD
-<<<<<<< HEAD
     second: {fileID: 2100000, guid: 68250f9e17038c6428151b17b735440f, type: 2}
-=======
-    second: {fileID: 2100000, guid: 084e7d2519d857e4f9d3926cf121778d, type: 2}
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 =======
     second: {fileID: 2100000, guid: e73c85ddc5f487a4b98550442f61ccfb, type: 2}
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551

@@ -1,13 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
 guid: 35b849b9c2b4c1e4499ffe894444adb7
-=======
-<<<<<<< HEAD
-guid: 15f4cd87bfbafd44ba2063e9f58ec454
-=======
-guid: 35b849b9c2b4c1e4499ffe894444adb7
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 timeCreated: 1466335001
 licenseType: Store
 ModelImporter:
@@ -25,28 +17,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Green_Roof
-<<<<<<< HEAD
     second: {fileID: 2100000, guid: 242b8f1309421ac4d959b42f47a3fa82, type: 2}
-=======
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 691e95ac1ef0d484c898955e54fa1cec, type: 2}
-=======
-    second: {fileID: 2100000, guid: 242b8f1309421ac4d959b42f47a3fa82, type: 2}
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Leafs
-<<<<<<< HEAD
     second: {fileID: 2100000, guid: 942b87f6481d2fc419717a3f0e0974fb, type: 2}
-=======
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: d4b959bccf992fe46bc3a9a16e6a390f, type: 2}
-=======
-    second: {fileID: 2100000, guid: 942b87f6481d2fc419717a3f0e0974fb, type: 2}
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   materials:
     importMaterials: 1
     materialName: 0

@@ -1,10 +1,6 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
-<<<<<<< HEAD
 guid: e286b443059f2b2419f1aee3632ae9a9
-=======
-guid: c303af3280467484098483fdeddc4054
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 =======
 guid: 5a65a3bd393eb004388cae7ca1eb5310
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
@@ -26,11 +22,7 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Leafs
 <<<<<<< HEAD
-<<<<<<< HEAD
     second: {fileID: 2100000, guid: 998e9152b123b6e4fbe27474460f6c5d, type: 2}
-=======
-    second: {fileID: 2100000, guid: d4b959bccf992fe46bc3a9a16e6a390f, type: 2}
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 =======
     second: {fileID: 2100000, guid: 942b87f6481d2fc419717a3f0e0974fb, type: 2}
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
@@ -39,11 +31,7 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Stone
 <<<<<<< HEAD
-<<<<<<< HEAD
     second: {fileID: 2100000, guid: 1390754386f5fb24bbd17f91d69a4379, type: 2}
-=======
-    second: {fileID: 2100000, guid: 5d9646e48c47f8b49897a5b93207325d, type: 2}
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 =======
     second: {fileID: 2100000, guid: 8f578e3f981a42542b3418a1ef8f4cc9, type: 2}
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551

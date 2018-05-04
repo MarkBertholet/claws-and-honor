@@ -1,13 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
 guid: 07e969b266588b24180c8b8818bd65a4
-=======
-<<<<<<< HEAD
-guid: 5b4ed03fc4bf4c94e8861c3cdd874562
-=======
-guid: 07e969b266588b24180c8b8818bd65a4
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 timeCreated: 1505035938
 licenseType: Store
 ModelImporter:
@@ -23,15 +15,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Brown.2
-<<<<<<< HEAD
     second: {fileID: 2100000, guid: 99ec8508f802c7843ab5fa12de15bb7d, type: 2}
-=======
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 508a35fd257699f47ace585d74718547, type: 2}
-=======
-    second: {fileID: 2100000, guid: 99ec8508f802c7843ab5fa12de15bb7d, type: 2}
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
   materials:
     importMaterials: 1
     materialName: 0

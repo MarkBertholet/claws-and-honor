@@ -1,10 +1,6 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
-<<<<<<< HEAD
 guid: f7cdc1ecaa18ce245a2c05c56a593b81
-=======
-guid: 85780d59fd9f2b2449929ba28304ec1e
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 =======
 guid: 82938443cea2d3e449d23ca7ec3a9ef7
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
@@ -26,11 +22,7 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Stone
 <<<<<<< HEAD
-<<<<<<< HEAD
     second: {fileID: 2100000, guid: 1390754386f5fb24bbd17f91d69a4379, type: 2}
-=======
-    second: {fileID: 2100000, guid: 5d9646e48c47f8b49897a5b93207325d, type: 2}
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 =======
     second: {fileID: 2100000, guid: 8f578e3f981a42542b3418a1ef8f4cc9, type: 2}
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
