@@ -1,32 +1,8 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-guid: 512f5473e6da416488ab8aa23e320779
-=======
-guid: 74346eeb4c9f020469ef4b3977e07112
->>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
-=======
-guid: 512f5473e6da416488ab8aa23e320779
->>>>>>> parent of bbe187b7... Bear Animation Work
-=======
 guid: dcf5029eb3ad7114bac1c1c3006c6a28
-=======
-<<<<<<< HEAD
-guid: 74346eeb4c9f020469ef4b3977e07112
-=======
-guid: dcf5029eb3ad7114bac1c1c3006c6a28
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
->>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
-=======
-guid: 512f5473e6da416488ab8aa23e320779
->>>>>>> parent of ecfaa721... Revert
-timeCreated: 1496337674
-licenseType: Store
 TextureImporter:
   fileIDToRecycleName: {}
+  externalObjects: {}
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -35,6 +11,8 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -50,10 +28,13 @@ TextureImporter:
   textureFormat: 1
   maxTextureSize: 2048
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: -1
     mipBias: -1
-    wrapMode: -1
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
   nPOTScale: 1
   lightmap: 0
   compressionQuality: 50
@@ -75,16 +56,19 @@ TextureImporter:
   platformSettings:
   - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites: []
     outline: []
+    physicsShape: []
   spritePackingTag: 
   userData: 
   assetBundleName: 

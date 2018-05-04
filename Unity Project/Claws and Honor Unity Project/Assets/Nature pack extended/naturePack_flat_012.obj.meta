@@ -1,24 +1,7 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-<<<<<<< HEAD
-guid: 5fd4e08870b355b47a6bbb51ae38b644
-=======
-guid: c077bd5a0dad26742a782fbdeb868f2e
->>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
-=======
-<<<<<<< HEAD
 guid: 5725663edbf9d174da001d486d5b464e
-=======
-guid: c077bd5a0dad26742a782fbdeb868f2e
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
-=======
-guid: 6ce71e40200e7f14aa93fcc4f7615899
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
-timeCreated: 1466334989
-licenseType: Store
 ModelImporter:
-  serializedVersion: 19
+  serializedVersion: 22
   fileIDToRecycleName:
     100000: Mesh1_Group1_Model
     100002: Mesh2_Group1_Model
@@ -30,6 +13,7 @@ ModelImporter:
     400004: Mesh3_Group1_Model
     400006: Mesh4_Group1_Model
     400008: //RootNode
+    2100000: Green_leafs
     2300000: Mesh1_Group1_Model
     2300002: Mesh2_Group1_Model
     2300004: Mesh3_Group1_Model
@@ -42,47 +26,33 @@ ModelImporter:
     4300002: Mesh2_Group1_Model
     4300004: Mesh3_Group1_Model
     4300006: Mesh4_Group1_Model
-<<<<<<< HEAD
-=======
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Green_leafs
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 96819ac1af312c94c887984500faf484, type: 2}
->>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 9000f54a1ffdc664a9a0cd548f1939c4, type: 2}
-=======
-    second: {fileID: 2100000, guid: 96819ac1af312c94c887984500faf484, type: 2}
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
-=======
-    second: {fileID: 2100000, guid: b679bb13e31dc864ab322b593df03572, type: 2}
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
+    9500000: //RootNode
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
-    resampleRotations: 1
+    resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -90,13 +60,18 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    importVisibility: 1
     importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
@@ -106,9 +81,11 @@ ModelImporter:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+    normalCalculationMode: 4
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -119,9 +96,12 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

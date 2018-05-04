@@ -1,55 +1,21 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-<<<<<<< HEAD
-guid: f902b41e10cdd2d44aaf1ada606f5d3c
-=======
-guid: 7293e1a3d92908843b5d672e05a063ae
->>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
-=======
 guid: 6e8ca178fcbdbc64faa9b24dba78d6cf
-=======
-<<<<<<< HEAD
-guid: 7293e1a3d92908843b5d672e05a063ae
-=======
-guid: 6e8ca178fcbdbc64faa9b24dba78d6cf
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
->>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
-timeCreated: 1505041219
-licenseType: Store
 ModelImporter:
-  serializedVersion: 21
+  serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
+    2100000: Gray.3
     2300000: //RootNode
     3300000: //RootNode
     4300000: Rock_3
-<<<<<<< HEAD
-=======
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Gray.3
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 10ffe1723e74af24da9a19e22bef2229, type: 2}
->>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
-=======
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 4a877be09a30aff438daeed16371d9f0, type: 2}
-=======
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 10ffe1723e74af24da9a19e22bef2229, type: 2}
-=======
-    second: {fileID: 2100000, guid: 4a877be09a30aff438daeed16371d9f0, type: 2}
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
->>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
+    9500000: //RootNode
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -62,6 +28,7 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -86,6 +53,8 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
@@ -115,7 +84,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

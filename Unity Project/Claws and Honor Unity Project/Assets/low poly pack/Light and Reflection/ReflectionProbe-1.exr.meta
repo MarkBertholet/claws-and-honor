@@ -1,33 +1,8 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-guid: 18de2bdef7775bd4e8a49eac19ee6e11
-=======
-guid: a2bc7e238c7d0bd43b8b71b79f61607f
->>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
-=======
-guid: 18de2bdef7775bd4e8a49eac19ee6e11
->>>>>>> parent of bbe187b7... Bear Animation Work
-=======
 guid: 789af254a8d1dc94d97559a255569e84
-=======
-<<<<<<< HEAD
-guid: a2bc7e238c7d0bd43b8b71b79f61607f
-=======
-guid: 789af254a8d1dc94d97559a255569e84
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
->>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
-=======
-guid: 18de2bdef7775bd4e8a49eac19ee6e11
->>>>>>> parent of ecfaa721... Revert
-timeCreated: 1498066090
-licenseType: Store
 TextureImporter:
-  fileIDToRecycleName:
-    8900000: generatedCubemap
+  fileIDToRecycleName: {}
+  externalObjects: {}
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -36,6 +11,8 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -46,15 +23,18 @@ TextureImporter:
   isReadable: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
-  cubemapConvolution: 1
-  seamlessCubemap: 1
+  cubemapConvolution: 0
+  seamlessCubemap: 0
   textureFormat: 1
   maxTextureSize: 2048
   textureSettings:
-    filterMode: 2
-    aniso: 0
-    mipBias: 0
-    wrapMode: 1
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
   nPOTScale: 1
   lightmap: 0
   compressionQuality: 50
@@ -69,23 +49,26 @@ TextureImporter:
   alphaIsTransparency: 0
   spriteTessellationDetail: -1
   textureType: 0
-  textureShape: 2
+  textureShape: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   platformSettings:
   - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 100
+    textureCompression: 1
+    compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites: []
     outline: []
+    physicsShape: []
   spritePackingTag: 
   userData: 
   assetBundleName: 

@@ -1,72 +1,22 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-<<<<<<< HEAD
-guid: c9ce8f855ca8c98449df4090174b5cd0
-=======
-guid: df6c1c6660713cc4d9bb06363fed00ca
->>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
-=======
 guid: 6b51bd1ed79f8214c9ecc64d5c5159a0
-=======
-<<<<<<< HEAD
-guid: df6c1c6660713cc4d9bb06363fed00ca
-=======
-guid: 6b51bd1ed79f8214c9ecc64d5c5159a0
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
->>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
-timeCreated: 1504768179
-licenseType: Store
 ModelImporter:
-  serializedVersion: 21
+  serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
+    2100000: Green.7
+    2100002: Purple.2
     2300000: //RootNode
     3300000: //RootNode
     4300000: Plant_5
-<<<<<<< HEAD
-=======
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Green.7
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 30e079be76acf4e44ab509da851ceab9, type: 2}
-=======
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: b4ae1c221a1d66a4994767c04c80c383, type: 2}
-=======
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 30e079be76acf4e44ab509da851ceab9, type: 2}
-=======
-    second: {fileID: 2100000, guid: b4ae1c221a1d66a4994767c04c80c383, type: 2}
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
->>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Purple.2
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 50c2bf05bd8a7e1469057f6525babe6f, type: 2}
->>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
-=======
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: bf7de86075e1d894b95578e726b7d202, type: 2}
-=======
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 50c2bf05bd8a7e1469057f6525babe6f, type: 2}
-=======
-    second: {fileID: 2100000, guid: bf7de86075e1d894b95578e726b7d202, type: 2}
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
->>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
+    9500000: //RootNode
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -79,6 +29,7 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -103,6 +54,8 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
@@ -132,7 +85,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

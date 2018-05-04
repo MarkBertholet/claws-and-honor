@@ -1,32 +1,7 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-guid: cb3d15a9f97c5014a822e9d235f96631
-=======
-guid: 841c9a69118e2c147b2e5d134a424772
->>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
-=======
-guid: cb3d15a9f97c5014a822e9d235f96631
->>>>>>> parent of bbe187b7... Bear Animation Work
-=======
 guid: 16d627c1ed1facb438a3f74e2595861a
-=======
-<<<<<<< HEAD
-guid: 841c9a69118e2c147b2e5d134a424772
-=======
-guid: 16d627c1ed1facb438a3f74e2595861a
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
->>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
-=======
-guid: cb3d15a9f97c5014a822e9d235f96631
->>>>>>> parent of ecfaa721... Revert
-timeCreated: 1498404741
-licenseType: Store
 ModelImporter:
-  serializedVersion: 19
+  serializedVersion: 22
   fileIDToRecycleName:
     100000: Component_1_1
     100002: Component_2_1
@@ -92,6 +67,10 @@ ModelImporter:
     400058: Mesh8
     400060: Mesh9
     400062: //RootNode
+    2100000: Color_M04
+    2100002: Color_C08
+    2100004: FrontColor
+    2100006: Color_E02
     2300000: Mesh1
     2300002: Mesh10
     2300004: Mesh11
@@ -134,104 +113,33 @@ ModelImporter:
     4300022: Mesh12
     4300024: Mesh13
     4300026: Mesh14
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_C08
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: cbb85102894f1694085d56665be964ec, type: 2}
-=======
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 422dedde8614b0f419ec2c1c8b360b63, type: 2}
-=======
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: cbb85102894f1694085d56665be964ec, type: 2}
-=======
-    second: {fileID: 2100000, guid: 422dedde8614b0f419ec2c1c8b360b63, type: 2}
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
->>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_E02
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: d3ef67b3a394df043be8472c0063c134, type: 2}
-=======
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 219a3e1d87bb37f4ca6d7e86ead415b0, type: 2}
-=======
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: d3ef67b3a394df043be8472c0063c134, type: 2}
-=======
-    second: {fileID: 2100000, guid: 219a3e1d87bb37f4ca6d7e86ead415b0, type: 2}
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
->>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_M04
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 36567e1d3260c114d9ec2c8901976392, type: 2}
-=======
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 889905152c8af7c44ae0efdd39590361, type: 2}
-=======
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 36567e1d3260c114d9ec2c8901976392, type: 2}
-=======
-    second: {fileID: 2100000, guid: 889905152c8af7c44ae0efdd39590361, type: 2}
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
->>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: FrontColor
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 1d332ac1d2c90084c88b0d841a29e5e8, type: 2}
->>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
-=======
->>>>>>> parent of bbe187b7... Bear Animation Work
-=======
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 3a318be6be023274dbbaa1019b86d628, type: 2}
-=======
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 1d332ac1d2c90084c88b0d841a29e5e8, type: 2}
-=======
-    second: {fileID: 2100000, guid: 3a318be6be023274dbbaa1019b86d628, type: 2}
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
->>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
-=======
->>>>>>> parent of ecfaa721... Revert
+    9500000: //RootNode
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -239,13 +147,18 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    importVisibility: 1
     importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
@@ -255,6 +168,7 @@ ModelImporter:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+    normalCalculationMode: 4
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
@@ -274,7 +188,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

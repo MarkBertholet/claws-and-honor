@@ -1,31 +1,8 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-guid: 264f79f81e127074b963f610900e1205
-=======
-guid: 635f02197ff219245aae0e4641a5d807
->>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
-=======
-guid: 264f79f81e127074b963f610900e1205
->>>>>>> parent of bbe187b7... Bear Animation Work
-=======
 guid: 9bd9d61dcaff20940ad3c37e4abc8af8
-=======
-<<<<<<< HEAD
-guid: 635f02197ff219245aae0e4641a5d807
-=======
-guid: 9bd9d61dcaff20940ad3c37e4abc8af8
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
->>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
-=======
-guid: 264f79f81e127074b963f610900e1205
->>>>>>> parent of ecfaa721... Revert
-timeCreated: 1494513421
-licenseType: Store
 NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

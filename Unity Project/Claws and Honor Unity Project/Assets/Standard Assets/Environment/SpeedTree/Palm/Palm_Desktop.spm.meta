@@ -1,24 +1,7 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-guid: d027af1092f6b434090f040565e7e656
-=======
-guid: 798a1e9a756e24743a34020cfa4ccd4b
->>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
-=======
-guid: d027af1092f6b434090f040565e7e656
->>>>>>> parent of bbe187b7... Bear Animation Work
-=======
 guid: df4ab142262b4cc49a3e14b1671c3b5a
-=======
-guid: 798a1e9a756e24743a34020cfa4ccd4b
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
-=======
-guid: 796aeda48a5f0b34d84c81ce8567840b
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
 SpeedTreeImporter:
+  externalObjects: {}
   serializedVersion: 4
   mainColor: {r: 1, g: 1, b: 1, a: 1}
   hueVariation: {r: 1, g: 0.5, b: 0, a: 0.1}
@@ -33,7 +16,7 @@ SpeedTreeImporter:
     reflectionProbeUsage: 1
     enableBump: 1
     enableHue: 1
-    windQuality: 5
+    windQuality: 4
   - height: 0.25
     castShadows: 1
     receiveShadows: 1
@@ -41,7 +24,7 @@ SpeedTreeImporter:
     reflectionProbeUsage: 1
     enableBump: 1
     enableHue: 1
-    windQuality: 5
+    windQuality: 4
   - height: 0.125
     castShadows: 1
     receiveShadows: 1
@@ -49,10 +32,10 @@ SpeedTreeImporter:
     reflectionProbeUsage: 1
     enableBump: 1
     enableHue: 1
-    windQuality: 5
+    windQuality: 4
   - height: 0.01
-    castShadows: 0
-    receiveShadows: 0
+    castShadows: 1
+    receiveShadows: 1
     useLightProbes: 0
     reflectionProbeUsage: 0
     enableBump: 1

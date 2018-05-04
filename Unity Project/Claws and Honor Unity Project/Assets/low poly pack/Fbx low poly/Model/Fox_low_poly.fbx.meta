@@ -1,32 +1,7 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-guid: d60c11daeb149a44a87263cf8b668b8b
-=======
-guid: 58454c6192249384fbf62ea823175a9e
->>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
-=======
-guid: d60c11daeb149a44a87263cf8b668b8b
->>>>>>> parent of bbe187b7... Bear Animation Work
-=======
 guid: 4fc06ccd3d60c2a4d8cfb9511c32f295
-=======
-<<<<<<< HEAD
-guid: 58454c6192249384fbf62ea823175a9e
-=======
-guid: 4fc06ccd3d60c2a4d8cfb9511c32f295
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
->>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
-=======
-guid: d60c11daeb149a44a87263cf8b668b8b
->>>>>>> parent of ecfaa721... Revert
-timeCreated: 1499024025
-licenseType: Store
 ModelImporter:
-  serializedVersion: 19
+  serializedVersion: 22
   fileIDToRecycleName:
     100000: Fox_lod_0
     100002: Fox_lod_1
@@ -254,6 +229,9 @@ ModelImporter:
     400220: tail_3_4
     400222: tail_3_5
     400224: tail_4
+    2100000: Mat
+    2100002: Mat.2
+    2100004: Mat.1
     4300000: Lox_lod_0
     4300002: Lox_lod_0_2
     4300004: Lox_lod_0_3
@@ -263,87 +241,32 @@ ModelImporter:
     13700002: Lox_lod_0_2
     13700004: Lox_lod_0_3
     13700006: Lox_lod_0_4
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Mat
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 9a34e18bf8df3474db2d08feb6f76b9c, type: 2}
-=======
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: e77507c107a1b5f4b8cf09278f6af7b1, type: 2}
-=======
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 9a34e18bf8df3474db2d08feb6f76b9c, type: 2}
-=======
-    second: {fileID: 2100000, guid: e77507c107a1b5f4b8cf09278f6af7b1, type: 2}
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
->>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Mat.1
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 2f52dbba6058e634f9782492708d1721, type: 2}
-=======
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 6ce659d2fe39522438e356d832e89560, type: 2}
-=======
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 2f52dbba6058e634f9782492708d1721, type: 2}
-=======
-    second: {fileID: 2100000, guid: 6ce659d2fe39522438e356d832e89560, type: 2}
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
->>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Mat.2
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 92c42936fa524a741b3ac7f209e06cad, type: 2}
->>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
-=======
->>>>>>> parent of bbe187b7... Bear Animation Work
-=======
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 3f45d03596308ad44821754ff335910d, type: 2}
-=======
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 92c42936fa524a741b3ac7f209e06cad, type: 2}
-=======
-    second: {fileID: 2100000, guid: 3f45d03596308ad44821754ff335910d, type: 2}
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
->>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
-=======
->>>>>>> parent of ecfaa721... Revert
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -351,13 +274,18 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    importVisibility: 1
     importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
@@ -367,6 +295,7 @@ ModelImporter:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+    normalCalculationMode: 4
   importAnimation: 1
   copyAvatar: 0
   humanDescription:

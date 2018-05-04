@@ -1,90 +1,44 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-<<<<<<< HEAD
-guid: 1e24c8dc43b01ea438c87c80cd05dc74
-=======
-guid: 91e90751149809e46a7d7f450525eacd
->>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
-=======
-<<<<<<< HEAD
 guid: fdad0a3990679aa45a9a484b9b8e8b7a
-=======
-guid: 91e90751149809e46a7d7f450525eacd
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
-=======
-guid: 0d059f904ef85ed48b4885d41c24a53d
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
-timeCreated: 1466334985
-licenseType: Store
 ModelImporter:
-  serializedVersion: 19
+  serializedVersion: 22
   fileIDToRecycleName:
     100000: Mesh1_Large_Oak_Fall_Model
     100002: //RootNode
     400000: Mesh1_Large_Oak_Fall_Model
     400002: //RootNode
+    2100000: Wood
+    2100002: Fall_Leafs
     2300000: Mesh1_Large_Oak_Fall_Model
     3300000: Mesh1_Large_Oak_Fall_Model
     4300000: Mesh1_Large_Oak_Fall_Model
-<<<<<<< HEAD
-=======
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Fall_Leafs
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 37725178708fe3743a96187bde375672, type: 2}
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: b1075f9ab24aa3a49b9d759fa1775e9f, type: 2}
-=======
-    second: {fileID: 2100000, guid: 37725178708fe3743a96187bde375672, type: 2}
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
-=======
-    second: {fileID: 2100000, guid: 6d0456d0031f7a145b113483c7d72fb9, type: 2}
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Wood
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: 7a2ea704fb489334b88b67ab45644771, type: 2}
->>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-    second: {fileID: 2100000, guid: e97caadc53576d24f94987cab6490ffe, type: 2}
-=======
-    second: {fileID: 2100000, guid: 7a2ea704fb489334b88b67ab45644771, type: 2}
->>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
-=======
-    second: {fileID: 2100000, guid: 9eba0341b355c3549b1509a61f557980, type: 2}
->>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
->>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
+    9500000: //RootNode
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
-    resampleRotations: 1
+    resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -92,13 +46,18 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    importVisibility: 1
     importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
@@ -108,9 +67,11 @@ ModelImporter:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+    normalCalculationMode: 4
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -121,9 +82,12 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
