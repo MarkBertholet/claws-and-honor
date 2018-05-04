@@ -1,6 +1,15 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+guid: 475c4a4e617a8401b84ca7b32c7cc460
+=======
+guid: dc9b789ffb7f87443b2a08ad90c7cd20
+>>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
+=======
+guid: 475c4a4e617a8401b84ca7b32c7cc460
+>>>>>>> parent of bbe187b7... Bear Animation Work
+=======
 guid: 9e3257678a45883419f70543d4ab44dc
 =======
 guid: dc9b789ffb7f87443b2a08ad90c7cd20
@@ -8,9 +17,8 @@ guid: dc9b789ffb7f87443b2a08ad90c7cd20
 =======
 guid: e6efc2666023f5448bf3bcb60eab158c
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
 ShaderImporter:
-  externalObjects: {}
   defaultTextures: []
   userData: 
   assetBundleName: 
-  assetBundleVariant: 

@@ -1,5 +1,11 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
+guid: c52a1ad28de5ec447a225e11be0fe132
+=======
+guid: 238650927e46dba44ac3af079a4dfdf3
+>>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
+=======
 guid: c7663cbb186e41d4e928e9e1a494ffe6
 =======
 <<<<<<< HEAD
@@ -8,10 +14,11 @@ guid: 238650927e46dba44ac3af079a4dfdf3
 guid: c7663cbb186e41d4e928e9e1a494ffe6
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
 >>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
+>>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
 timeCreated: 1504768178
 licenseType: Store
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 21
   fileIDToRecycleName:
     100000: Leaves
     100002: Leaves_1
@@ -37,11 +44,16 @@ ModelImporter:
     4300002: Leaves_2
     4300004: Leaves_3
     4300006: Tree_1
+<<<<<<< HEAD
+=======
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Brown.2
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 508a35fd257699f47ace585d74718547, type: 2}
+=======
 <<<<<<< HEAD
     second: {fileID: 2100000, guid: 99ec8508f802c7843ab5fa12de15bb7d, type: 2}
 =======
@@ -51,10 +63,14 @@ ModelImporter:
     second: {fileID: 2100000, guid: 99ec8508f802c7843ab5fa12de15bb7d, type: 2}
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
 >>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
+>>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Brown.3
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: d3a8d0eeb438dc5449393f1e926327af, type: 2}
+=======
 <<<<<<< HEAD
     second: {fileID: 2100000, guid: 537c03f0d76dc07498937e9b39590cd8, type: 2}
 =======
@@ -64,10 +80,15 @@ ModelImporter:
     second: {fileID: 2100000, guid: 537c03f0d76dc07498937e9b39590cd8, type: 2}
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
 >>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
+>>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Green.10
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 496d5a8605898044f9c9a88c3a3c1355, type: 2}
+>>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
+=======
 <<<<<<< HEAD
     second: {fileID: 2100000, guid: 4d076f174f22e5d409e9b31e07d944f4, type: 2}
 =======
@@ -77,11 +98,11 @@ ModelImporter:
     second: {fileID: 2100000, guid: 4d076f174f22e5d409e9b31e07d944f4, type: 2}
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
 >>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
+>>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -94,7 +115,6 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
-    importAnimatedCustomProperties: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -119,8 +139,6 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    preserveHierarchy: 0
-    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88

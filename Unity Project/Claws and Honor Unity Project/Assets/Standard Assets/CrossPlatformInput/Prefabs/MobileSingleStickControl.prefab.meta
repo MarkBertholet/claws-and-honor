@@ -1,6 +1,12 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+guid: 9529ecc3d479da5499993355e6c2cb4f
+=======
+guid: 403e35608553a1d4dbafa8761c78a443
+>>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
+=======
+<<<<<<< HEAD
 guid: cc8633f697a4b3146935a9ec92611587
 =======
 guid: 403e35608553a1d4dbafa8761c78a443
@@ -8,9 +14,7 @@ guid: 403e35608553a1d4dbafa8761c78a443
 =======
 guid: 0802c238f5fd04341b2f8c51f0f223b7
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
 NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 0
   userData: 
   assetBundleName: 
-  assetBundleVariant: 
