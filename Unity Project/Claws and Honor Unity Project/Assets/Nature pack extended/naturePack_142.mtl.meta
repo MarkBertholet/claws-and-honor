@@ -1,9 +1,20 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: cbeada034055e224c9582c332d286de6
 =======
 guid: 783364e969c226c46a453e6cb9a85912
 >>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
+=======
+guid: 3aeffeeda306e6344992735308a8df0b
+=======
+<<<<<<< HEAD
+guid: 783364e969c226c46a453e6cb9a85912
+=======
+guid: 3aeffeeda306e6344992735308a8df0b
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
+>>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
 timeCreated: 1466334980
 licenseType: Store
 DefaultImporter:

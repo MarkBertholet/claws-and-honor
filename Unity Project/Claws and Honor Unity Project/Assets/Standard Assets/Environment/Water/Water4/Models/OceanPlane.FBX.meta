@@ -1,6 +1,7 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: 681e41ee1260343b395ca58745c94870
 =======
 guid: dbc36edfa54ee1b4081e11c4e88ad518
@@ -8,6 +9,15 @@ guid: dbc36edfa54ee1b4081e11c4e88ad518
 =======
 guid: 681e41ee1260343b395ca58745c94870
 >>>>>>> parent of bbe187b7... Bear Animation Work
+=======
+guid: 23f67b04132cdf34596534e1c312c3a3
+=======
+guid: dbc36edfa54ee1b4081e11c4e88ad518
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
+=======
+guid: b27ca43b85bcdcc4daf675f3fb75adf4
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
@@ -26,10 +36,22 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: OceanPLaneMaterial
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 6ac7a67bd0106ab4c9565856a4c2323b, type: 2}
 >>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
 =======
 >>>>>>> parent of bbe187b7... Bear Animation Work
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: c1ae9b71151bd6e4798f430cda9322f4, type: 2}
+=======
+    second: {fileID: 2100000, guid: 6ac7a67bd0106ab4c9565856a4c2323b, type: 2}
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
+=======
+    second: {fileID: 2100000, guid: c3f30a3cd1f08684aafd7fd13532cb1a, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
   materials:
     importMaterials: 1
     materialName: 1

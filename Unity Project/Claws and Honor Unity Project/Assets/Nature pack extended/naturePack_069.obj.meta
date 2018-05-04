@@ -1,9 +1,20 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: cc14e19db9fd9d14996e419cf5275e34
 =======
 guid: 94805d0d55a43c1419815785307329b0
 >>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
+=======
+guid: b2d8008dce1773b4c8ff61db4cee8356
+=======
+<<<<<<< HEAD
+guid: 94805d0d55a43c1419815785307329b0
+=======
+guid: b2d8008dce1773b4c8ff61db4cee8356
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
+>>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
 timeCreated: 1466335001
 licenseType: Store
 ModelImporter:
@@ -23,13 +34,37 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Fall_Leafs
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 37725178708fe3743a96187bde375672, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 6d0456d0031f7a145b113483c7d72fb9, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 37725178708fe3743a96187bde375672, type: 2}
+=======
+    second: {fileID: 2100000, guid: 6d0456d0031f7a145b113483c7d72fb9, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
+>>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Wood
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: 7a2ea704fb489334b88b67ab45644771, type: 2}
 >>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 9eba0341b355c3549b1509a61f557980, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 7a2ea704fb489334b88b67ab45644771, type: 2}
+=======
+    second: {fileID: 2100000, guid: 9eba0341b355c3549b1509a61f557980, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
+>>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
   materials:
     importMaterials: 1
     materialName: 0

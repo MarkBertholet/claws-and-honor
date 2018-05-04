@@ -1,6 +1,7 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: 510a55b5c4aed6945a274d56d5790da3
 =======
 guid: ebd121816e8f9c446adfa5d003d0f566
@@ -8,6 +9,16 @@ guid: ebd121816e8f9c446adfa5d003d0f566
 =======
 guid: 510a55b5c4aed6945a274d56d5790da3
 >>>>>>> parent of bbe187b7... Bear Animation Work
+=======
+guid: da62cec4bebbbbc478add2cbea161738
+=======
+<<<<<<< HEAD
+guid: ebd121816e8f9c446adfa5d003d0f566
+=======
+guid: da62cec4bebbbbc478add2cbea161738
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
+>>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
 timeCreated: 1494526228
 licenseType: Store
 NativeFormatImporter:

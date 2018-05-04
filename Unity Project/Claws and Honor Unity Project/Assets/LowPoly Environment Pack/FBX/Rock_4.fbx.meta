@@ -1,9 +1,20 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: b58e7fdfb89fbc549b36a69243aee4c0
 =======
 guid: e0e9fcb8401336b499a45c78f05ed154
 >>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
+=======
+guid: fb9a1d5c6e1cda54b9da40c45c553caa
+=======
+<<<<<<< HEAD
+guid: e0e9fcb8401336b499a45c78f05ed154
+=======
+guid: fb9a1d5c6e1cda54b9da40c45c553caa
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
+>>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
 timeCreated: 1504768177
 licenseType: Store
 ModelImporter:
@@ -21,8 +32,20 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Gray.4
+<<<<<<< HEAD
     second: {fileID: 2100000, guid: c58bbbb06591fe540bfd098b7df8ee2e, type: 2}
 >>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: 5513499441c691143bb4171f30ba417b, type: 2}
+=======
+<<<<<<< HEAD
+    second: {fileID: 2100000, guid: c58bbbb06591fe540bfd098b7df8ee2e, type: 2}
+=======
+    second: {fileID: 2100000, guid: 5513499441c691143bb4171f30ba417b, type: 2}
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
+>>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
   materials:
     importMaterials: 1
     materialName: 0

@@ -1,9 +1,20 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: 951aab9a19f551f4385d0ceafdaf19b4
 =======
 guid: 40d573374788959438d858b39129ddb7
 >>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
+=======
+<<<<<<< HEAD
+guid: cc18e37c08ead6b4680d2a240b432844
+=======
+guid: 40d573374788959438d858b39129ddb7
+>>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
+=======
+guid: 73b3ff0a605f85c4484fcfd3dbae9967
+>>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
+>>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
 TextureImporter:
   fileIDToRecycleName: {}
   serializedVersion: 2
