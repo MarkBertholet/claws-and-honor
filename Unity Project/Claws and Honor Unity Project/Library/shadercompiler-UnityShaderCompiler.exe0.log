@@ -2,8 +2,11 @@ Base path: C:/Program Files/Unity/Editor/Data
 Cmd: initializeCompiler
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of bbe187b7... Bear Animation Work
+=======
+>>>>>>> parent of ecfaa721... Revert
 Cmd: compileSnippet
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -189,10 +192,13 @@ Cmd: compileSnippet
 Cmd: compileSnippet
   api=4 type=1 insize=1759 outsize=2646 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING ok=1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
 =======
 >>>>>>> parent of bbe187b7... Bear Animation Work
+=======
+>>>>>>> parent of ecfaa721... Revert
 Cmd: preprocess
   insize=12504 outsize=2524 ok=1
 Cmd: compileSnippet
@@ -284,8 +290,11 @@ Cmd: compileSnippet
 Cmd: compileSnippet
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of bbe187b7... Bear Animation Work
+=======
+>>>>>>> parent of ecfaa721... Revert
   api=4 type=1 insize=7127 outsize=4062 kw=POINT LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING ok=1
 Cmd: compileSnippet
   api=4 type=0 insize=4005 outsize=1434 kw=SHADOWS_DEPTH LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING ok=1
@@ -782,8 +791,11 @@ Cmd: compileSnippet
 =======
 >>>>>>> 90ef65132939b2ddca59e19500cfa4196a139483
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   api=4 type=1 insize=1468 outsize=6050 kw=DIRECTIONAL FOG_EXP2 pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING ok=1
 >>>>>>> parent of 82861059... Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor
 =======
 >>>>>>> parent of bbe187b7... Bear Animation Work
+=======
+>>>>>>> parent of ecfaa721... Revert

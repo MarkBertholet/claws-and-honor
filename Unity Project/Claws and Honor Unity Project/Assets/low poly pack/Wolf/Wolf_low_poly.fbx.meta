@@ -2,6 +2,7 @@ fileFormatVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: e3a99f26c39bfe54dbf3a09dcac2a199
 =======
 guid: 84074e465494f264c82166bc18172112
@@ -19,6 +20,9 @@ guid: 1d2a0479d41137a49ac1f0dd7dcc4e82
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
 >>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 >>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
+=======
+guid: e3a99f26c39bfe54dbf3a09dcac2a199
+>>>>>>> parent of ecfaa721... Revert
 timeCreated: 1497969034
 licenseType: Store
 ModelImporter:
@@ -261,6 +265,7 @@ ModelImporter:
     13700006: wolf_lod_3_2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   externalObjects:
   - first:
@@ -300,6 +305,8 @@ ModelImporter:
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
 >>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 >>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
+=======
+>>>>>>> parent of ecfaa721... Revert
   materials:
     importMaterials: 1
     materialName: 0

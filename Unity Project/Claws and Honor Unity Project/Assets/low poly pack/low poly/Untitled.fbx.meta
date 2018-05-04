@@ -2,6 +2,7 @@ fileFormatVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: cb3d15a9f97c5014a822e9d235f96631
 =======
 guid: 841c9a69118e2c147b2e5d134a424772
@@ -19,6 +20,9 @@ guid: 16d627c1ed1facb438a3f74e2595861a
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
 >>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 >>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
+=======
+guid: cb3d15a9f97c5014a822e9d235f96631
+>>>>>>> parent of ecfaa721... Revert
 timeCreated: 1498404741
 licenseType: Store
 ModelImporter:
@@ -132,6 +136,7 @@ ModelImporter:
     4300026: Mesh14
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   externalObjects:
   - first:
@@ -205,6 +210,8 @@ ModelImporter:
 >>>>>>> 693acbabe8f1a36ed40967860e6586840cb4d551
 >>>>>>> 828610591733b7f7369c3e7f07734e19b588f67f
 >>>>>>> parent of d09904fd... Revert "Merge branch 'master' of https://github.com/MarkBertholet/claws-and-honor"
+=======
+>>>>>>> parent of ecfaa721... Revert
   materials:
     importMaterials: 1
     materialName: 0
