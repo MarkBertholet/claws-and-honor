@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Claws and Honor Unity Project", "Claws and Honor Unity Project.csproj", "{F65B1BA0-BBF3-4179-F7AA-A98889115910}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Claws and Honor Unity Project.Plugins", "Claws and Honor Unity Project.Plugins.csproj", "{63D3FD8D-D4C8-B541-3C0E-E20B46DA0154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Claws and Honor Unity Project.Editor", "Claws and Honor Unity Project.Editor.csproj", "{204D3AF6-5C49-1785-C1B9-3E0DDEBED43D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Claws and Honor Unity Project.Editor.Plugins", "Claws and Honor Unity Project.Editor.Plugins.csproj", "{EFB5CEDB-3E4F-F887-664E-F963FF53AEE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F65B1BA0-BBF3-4179-F7AA-A98889115910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F65B1BA0-BBF3-4179-F7AA-A98889115910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F65B1BA0-BBF3-4179-F7AA-A98889115910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F65B1BA0-BBF3-4179-F7AA-A98889115910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63D3FD8D-D4C8-B541-3C0E-E20B46DA0154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D3FD8D-D4C8-B541-3C0E-E20B46DA0154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D3FD8D-D4C8-B541-3C0E-E20B46DA0154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D3FD8D-D4C8-B541-3C0E-E20B46DA0154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{204D3AF6-5C49-1785-C1B9-3E0DDEBED43D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204D3AF6-5C49-1785-C1B9-3E0DDEBED43D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204D3AF6-5C49-1785-C1B9-3E0DDEBED43D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204D3AF6-5C49-1785-C1B9-3E0DDEBED43D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFB5CEDB-3E4F-F887-664E-F963FF53AEE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFB5CEDB-3E4F-F887-664E-F963FF53AEE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFB5CEDB-3E4F-F887-664E-F963FF53AEE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFB5CEDB-3E4F-F887-664E-F963FF53AEE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
